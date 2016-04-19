@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>Laxey_Wheel.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>56000</max-m>
+ </animation>
+
+ <animation>
+  <enable-hot type="bool">false</enable-hot>
+ </animation>
+
+ <animation>
+  <type>alpha-test</type>
+  <alpha-factor>0.01</alpha-factor>
+ </animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>56000</max-m>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+<object-name>Wheel</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>10</factor>
+  <center>
+   <x-m>0</x-m>
+   <y-m>0</y-m>
+   <z-m>0.1</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+ </animation>
+
+
+ </PropertyList>

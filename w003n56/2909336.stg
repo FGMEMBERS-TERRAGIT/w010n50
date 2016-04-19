@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.998833 56.418002 67.04 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.989376 56.470179 157.23 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.946983 56.473636 79.79 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.942571 56.383358 186.43 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.926538 56.444681 88.38 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.900417 56.408774 39.74 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.9246763 56.4444271 49.93 180
+OBJECT_SHARED Models/Airport/marker.ac -2.828375 56.377517 0 180
+OBJECT_SHARED Models/Industrial/Gasometer.ac -2.927215 56.484001 54.06 180
+OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -2.87764 56.46414 1.65 280
+OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -2.87756 56.46412 1.59 280
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -2.87726 56.46309 1.2 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.85815 56.46624 3.22 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -2.9543444 56.4600071 4.4 164.32

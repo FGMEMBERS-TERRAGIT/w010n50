@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Airport/ndb.ac -1.719444 52.746667 53.23 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.674249 52.741183 91.34 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.65047 52.676964 91.64 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.601963 52.733312 129.7 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.596055 52.628822 111.59 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.567973 52.675021 121.08 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.7485413 52.69843 63.26 32.42
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.7431053 52.7005521 53.9 51.66
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.7415285 52.703253 53.43 48.26
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.7078088 52.7132101 55.05 26

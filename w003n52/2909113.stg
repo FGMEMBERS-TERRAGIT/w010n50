@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.741452 52.885299 106.82 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.714067 52.93979 126.52 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.671843 52.990043 147.52 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.616051 52.946982 120.81 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.603313 52.980236 95.73 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.6583333 52.8936111 106.05 180
+OBJECT_SHARED Models/Airport/marker.ac -2.659619 52.882958 78.36 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.515 52.8977778 -316.08 180

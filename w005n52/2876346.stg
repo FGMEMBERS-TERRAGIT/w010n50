@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.476881 52.889713 47.02 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.436597 52.975058 548 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.436569 52.975086 547.69 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.423586 52.891056 46 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.414906 52.939463 110.28 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.347296 52.950259 213.57 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.328706 52.892964 6.08 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.297579 52.979814 255.7 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.25286 52.951494 108.6 180
+OBJECT_SHARED Models/Power/windturbine.xml -4.3883333 52.8836111 -0.18 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.4193123 52.9818879 111.22 180
+OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -4.40248 52.88011 -0.36 355
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -4.40244 52.87785 -1.26 0
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -4.40265 52.87784 -1.25 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.38401 52.88421 -0.25 0

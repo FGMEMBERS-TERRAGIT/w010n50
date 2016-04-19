@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.205792 55.907948 215.67 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.154483 55.909102 134.98 180
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -2.1467 55.89926 99.4 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -2.206389 55.900556 213.62 0
+OBJECT_STATIC StAbbsLighthouse.xml -2.1383347 55.91666732 8.51 0

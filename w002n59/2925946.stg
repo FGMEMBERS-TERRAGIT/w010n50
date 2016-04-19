@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/ndb.ac -1.294833 59.882375 3.93 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.38266 59.905551 269.75 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.354555 59.98035 6.81 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.308097 59.895007 83.43 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.307351 59.952374 252.22 180
+OBJECT_SHARED Models/Airport/ils.xml -1.289444 59.882536 3.6 257.82
+OBJECT_SHARED Models/Airport/ils.xml -1.289214 59.882456 3.69 99.36
+OBJECT_SHARED Models/Communications/radio-medium.xml -1.3795701 59.9065197 208.62 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -1.29535 59.882336 3.96 180
+OBJECT_SHARED Models/Airport/localizer.xml -1.30345 59.880125 4 348.86
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -1.2865333 59.8787555 4.26 180

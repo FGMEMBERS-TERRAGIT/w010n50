@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.401197 54.154813 131.03 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.3313 54.23486 82.64 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.308695 54.168849 97.83 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -0.4322222 54.1875 134.35 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -0.3264174 54.1850645 23.84 180
+OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -0.26865 54.21042 -0.09 270
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -0.26892 54.2104 -0.09 0

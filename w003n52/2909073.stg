@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.733903 52.280272 109.51 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.671148 52.260678 187.48 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.647674 52.321882 108.13 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.586335 52.34653 176.53 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.572763 52.255074 239.41 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.53197 52.326532 97.91 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.7269444 52.3088889 27.47 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.7266667 52.3205556 28.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.7213889 52.3155556 27.04 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.604495 52.3180676 31.31 180
+OBJECT_STATIC StPetersCCLudlow.ac -2.711983 52.374986 117.92 200

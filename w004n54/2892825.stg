@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.556625 54.473102 67 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.552893 54.447498 21.24 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.556535 54.4958647 81.89 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -3.5019444 54.4163889 -349.31 180

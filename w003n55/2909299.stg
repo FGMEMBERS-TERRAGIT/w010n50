@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.201084 55.838907 121 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.196483 55.806803 137.38 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.164118 55.773812 67.39 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.135695 55.869824 108.03 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.09201 55.851194 91.38 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.085151 55.818637 210.07 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.083742 55.868343 42.12 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.051548 55.786777 156.56 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.084622 55.8323322 147.97 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.0318946 55.7856298 70 180
+OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -2.08623 55.87284 9.5 345
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.058 55.84463 -0.17 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.00285 55.76351 0 0
+OBJECT_STATIC Berwick_Lifeboat_Station.ac -2.000336 55.761306 0 174

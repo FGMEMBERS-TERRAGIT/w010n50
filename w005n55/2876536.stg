@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.994311 55.953221 493.45 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.966373 55.916017 337.61 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.96509 55.980267 187.63 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.914122 55.998167 377.48 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.855961 55.884454 206.8 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.838481 55.94049 191.33 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.817691 55.914451 284.86 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.793663 55.955528 112.04 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.774251 55.879034 436.03 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.77141 55.932688 227.91 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.759343 55.936375 163.68 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.9976929 55.8776321 111.97 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.9380423 55.9770651 -16.1 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.7944444 55.9911111 76.71 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -4.7931589 55.991223 -364.61 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -4.9069409 55.8921827 -0.12 139.65
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -4.8806043 55.9078532 0 76.27

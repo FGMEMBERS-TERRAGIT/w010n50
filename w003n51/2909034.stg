@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.381592 51.681991 209.45 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.301485 51.668027 241.87 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.258451 51.716008 225.83 180
+OBJECT_SHARED Models/Power/windturbine.xml -2.2747222 51.6797222 220.33 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.3065547 51.6646145 218.75 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -2.4830762 51.6845842 6.31 217.92
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -2.4757806 51.6880962 6.36 221.05
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -2.4303761 51.7155442 19.98 222.6
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -2.3770753 51.744198 8.6 226.23

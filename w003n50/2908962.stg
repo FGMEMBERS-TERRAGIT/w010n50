@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.261816 50.622164 123.96 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.4762125 50.598362 12.68 180
+OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -2.44211 50.56978 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.4072 50.58785 -1.04 0
+OBJECT_SHARED Models/Misc/weytower.ac -2.44641 50.610143 1 216
+OBJECT_STATIC Portland_Bill_Lighthouse.xml -2.456393 50.514289 0 3
+OBJECT_STATIC durdle.ac -2.27718103 50.6206114 -0.63 72

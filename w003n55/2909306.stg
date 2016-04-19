@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.462637 55.905643 404.88 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.447032 55.938091 307.71 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.375491 55.875112 233.58 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.369301 55.945195 20.92 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.357735 55.911563 248.67 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.295818 55.912536 232.44 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.4541667 55.9416667 -41.9 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.4694444 55.9788889 -353.68 180
+OBJECT_STATIC Barns_Ness_Lighthouse.xml -2.44332791 55.98664403 2.58 72

@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.843088 51.742597 147.98 180
+OBJECT_SHARED Models/Airport/ils.xml -1.806614 51.684269 86.17 270.93
+OBJECT_SHARED Models/Airport/ils.xml -1.773078 51.685011 78.32 90.95
+OBJECT_SHARED Models/Airport/tacan.xml -1.797614 51.681692 83.87 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -1.9942051 51.749541 137.29 180
+OBJECT_SHARED Models/Airport/localizer.xml -1.817619 51.682939 85.34 358
+OBJECT_SHARED Models/Airport/localizer.xml -1.762775 51.684103 77.03 177.95

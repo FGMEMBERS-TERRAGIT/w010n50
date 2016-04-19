@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.496409 50.181798 197.77 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.433163 50.148177 57.57 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.394134 50.177889 94.05 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.379181 50.241678 64.94 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.27227 50.169505 213.89 180
+OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -5.47121 50.21181 -0.05 270
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -5.47434 50.21263 -0.01 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -5.4378 50.2033167 -0.08 0.91
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -5.4361167 50.2031333 -0.06 163.46
+OBJECT_STATIC GodrevyLighthouse.xml -5.3983333 50.2416666 -0.16 216

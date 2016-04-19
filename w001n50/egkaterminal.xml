@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<path>egkaterminal.ac</path>
+
+<animation>
+  <type>rotate</type>
+       <object-name>minutehand</object-name>
+<property>/sim/time/utc/minute</property>
+  <factor>6</factor>
+  <center>
+   <x-m>0</x-m>
+   <y-m>0</y-m>
+   <z-m>9.53</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+</animation>
+
+<animation>
+  <type>rotate</type>
+  <object-name>hourhand</object-name>
+<property>/instrumentation/clock/local-hour</property>
+  <factor>30</factor>
+  <center>
+   <x-m>0</x-m>
+   <y-m>0</y-m>
+   <z-m>9.53</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+</animation>
+
+</PropertyList>

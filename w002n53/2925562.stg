@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.497244 53.930467 121.47 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.44382 53.968106 62.7 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.420752 53.892427 107.07 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.319989 53.87751 58.85 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -1.315919 53.905947 15.14 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -1.315857 53.90729 18.19 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -1.31572 53.907097 17.77 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -1.315578 53.905983 14.87 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -1.315168 53.907072 17.45 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.315884 53.906527 16.65 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.31568 53.90635 15.97 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.315409 53.906723 16.64 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.3152 53.906552 15.73 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2909631 53.8761682 37.95 241.12
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2888937 53.8783862 30.82 241.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2868244 53.8806041 26.44 240.94
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2845228 53.8830201 31.81 240.68

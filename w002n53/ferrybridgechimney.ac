@@ -1,0 +1,881 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "DefaultWhite" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
+MATERIAL "LightsXmat.001" rgb 1 1 1 amb 1 1 1 emis 1 1 1 spec 0 0 0 shi 0 trans 0
+OBJECT world
+kids 25
+OBJECT poly
+name "Cylinder"
+data 4
+Mesh
+texture "ferrybridgechimney.rgb"
+texrep 1 1
+crease 30.000000
+numvert 33
+6.355462 0.005044 -6.355461
+8.303811 0.005044 -3.439551
+8.98798 0.005044 0
+8.303811 0.005044 3.439552
+6.355462 0.005044 6.355462
+3.439552 0.005044 8.303811
+1e-06 0.005044 8.98798
+-3.439549 0.005044 8.303812
+-6.355459 0.005044 6.355463
+-8.303811 0.005044 3.439552
+-8.98798 0.005044 0
+-8.303811 0.005044 -3.439553
+-6.355459 0.005044 -6.355464
+-3.439547 0.005044 -8.303813
+6e-06 0.005044 -8.98798
+3.439558 0.005044 -8.303808
+4.220929 198.067062 -4.220912
+5.514907 198.067062 -2.284333
+5.96929 198.067062 1.7e-05
+5.514902 198.067062 2.284366
+4.220918 198.067062 4.220941
+2.284339 198.067062 5.514917
+-1.2e-05 198.067062 5.969298
+-2.28436 198.067062 5.514907
+-4.220935 198.067062 4.220924
+-5.51491 198.067062 2.284343
+-5.96929 198.067062 -6e-06
+-5.514898 198.067062 -2.284354
+-4.220912 198.067062 -4.220928
+-2.284331 198.067062 -5.514904
+1.9e-05 198.067062 -5.969281
+2.284367 198.067062 -5.514887
+0 198.067062 9e-06
+numsurf 32
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+17 1.0 0.984375
+16 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+18 1.0 0.984375
+17 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+19 1.0 0.984375
+18 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+20 1.0 0.984375
+19 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+21 1.0 0.984375
+20 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+22 1.0 0.984375
+21 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+23 1.0 0.984375
+22 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+24 1.0 0.984375
+23 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+25 1.0 0.984375
+24 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+26 1.0 0.984375
+25 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+27 1.0 0.984375
+26 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+28 1.0 0.984375
+27 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+29 1.0 0.984375
+28 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+30 1.0 0.984375
+29 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+31 1.0 0.984375
+30 0.0 0.984375
+SURF 0x00
+mat 1
+refs 3
+32 1.0 0.96875
+16 1.0 0.984375
+31 0.0 0.984375
+SURF 0x10
+mat 1
+refs 4
+0 1.0 0.0
+16 1.0 1.0
+17 0.0 1.0
+1 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+1 1.0 0.0
+17 1.0 1.0
+18 0.0 1.0
+2 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+2 1.0 0.0
+18 1.0 1.0
+19 0.0 1.0
+3 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+3 1.0 0.0
+19 1.0 1.0
+20 0.0 1.0
+4 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+4 1.0 0.0
+20 1.0 1.0
+21 0.0 1.0
+5 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+5 1.0 0.0
+21 1.0 1.0
+22 0.0 1.0
+6 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+6 1.0 0.0
+22 1.0 1.0
+23 0.0 1.0
+7 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+7 1.0 0.0
+23 1.0 1.0
+24 0.0 1.0
+8 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+8 1.0 0.0
+24 1.0 1.0
+25 0.0 1.0
+9 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+9 1.0 0.0
+25 1.0 1.0
+26 0.0 1.0
+10 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+10 1.0 0.0
+26 1.0 1.0
+27 0.0 1.0
+11 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+11 1.0 0.0
+27 1.0 1.0
+28 0.0 1.0
+12 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+12 1.0 0.0
+28 1.0 1.0
+29 0.0 1.0
+13 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+13 1.0 0.0
+29 1.0 1.0
+30 0.0 1.0
+14 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+14 1.0 0.0
+30 1.0 1.0
+31 0.0 1.0
+15 0.0 0.0
+SURF 0x10
+mat 1
+refs 4
+16 0.0 1.0
+0 0.0 0.0
+15 1.0 0.0
+31 1.0 1.0
+kids 0
+OBJECT poly
+name "LightsX00"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX01"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX02"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX03"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX04"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX05"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX06"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX07"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX08"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX09"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX10"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX11"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX12"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX13"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX14"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX15"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX16"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX17"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX18"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX19"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX20"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX21"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX22"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0
+OBJECT poly
+name "LightsX23"
+data 15
+LightsXmesh.001
+texture "redlight.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+-1 -1 0
+1 -1 0
+1 1 0
+-1 1 0
+numsurf 2
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+1 0.999999940395 0.0
+2 1.0 0.999999940395
+SURF 0x00
+mat 2
+refs 3
+0 0.0 5.96046447754e-08
+2 1.0 0.999999940395
+3 8.94069600577e-08 1.0
+kids 0

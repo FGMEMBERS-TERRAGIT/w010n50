@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.440255 56.08382 144.2 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.429838 56.055502 63.11 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.426942 56.033637 39.5 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.415736 56.029588 78.24 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.409859 56.054564 92.86 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.406753 56.095366 164.26 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.387644 56.095484 223 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.304028 56.092262 171.27 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.2525 56.0613889 -21.01 180
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.42991 56.01139 -0.09 0
+OBJECT_STATIC forth-rail.ac -3.3895843 56.0009583 -0.01 15
+OBJECT_STATIC forth-road.ac -3.4060843 56.0019583 -0.03 90

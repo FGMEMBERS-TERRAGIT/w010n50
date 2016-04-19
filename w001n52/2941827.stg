@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.173444 52.010584 94.72 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.072427 52.05888 56.24 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.060559 52.017637 170.03 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -0.0576 52.089626 26.78 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -0.057359 52.089506 26.97 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.1956663 52.003351 78.57 90.15

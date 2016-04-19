@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.483216 53.234214 35.07 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.476391 53.18815 36.83 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.410159 53.191469 54.25 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.349586 53.240116 79.93 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.270668 53.142782 38.11 180
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -4.3015388 53.1322863 0.02 180.43
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -4.3012331 53.1324792 0 249.51
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -4.3011341 53.1331899 -0.01 167.17
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -4.3004168 53.1334954 -0.01 308.59
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -4.278628 53.1408182 1.39 294.47
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -4.2790451 53.1408822 0 11.37
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.3205 53.1319 -0.06 0
+OBJECT_STATIC Twr_Mawr_Lighthouse.ac -4.42103574 53.13330408 -0.18 0

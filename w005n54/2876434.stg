@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.461618 54.263283 611.42 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.393951 54.290186 540.6 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.3863833 54.3717434 12.79 180
+OBJECT_STATIC Maughold_Head_Lighthouse.xml -4.313194 54.29934905 87.59 12

@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.702348 54.468782 266.42 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.683789 54.432109 281.77 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.636377 54.380722 291.15 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.569421 54.43143 214.44 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.507648 54.396591 261.66 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -0.6683501 54.4661914 58.78 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -0.6043102 54.4888398 3.67 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -0.5042177 54.3968534 214.9 180
+OBJECT_SHARED Models/Misc/generic_lighthouse.ac -0.5682 54.47777 -37 180
+OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -0.6134 54.48808 4.02 85
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -0.57927 54.48656 -0.12 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -0.61184 54.49061 0 0

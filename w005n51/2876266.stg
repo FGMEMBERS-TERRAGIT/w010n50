@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac -4.31113 51.713668 3.79 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.331061 51.695042 23.44 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.257743 51.70446 168.78 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac -4.26667 51.65 -0.14 172.1

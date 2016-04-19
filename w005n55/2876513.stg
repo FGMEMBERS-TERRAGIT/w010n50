@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/ndb.ac -4.681553 55.544353 2.28 180
+OBJECT_SHARED Models/Airport/ndb.ac -4.577253 55.506089 16.23 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.733856 55.527248 -1.94 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.602927 55.560969 136.7 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.553799 55.60574 40.48 180
+OBJECT_SHARED Models/Airport/ils.xml -4.606025 55.514486 12.3 237.86
+OBJECT_SHARED Models/Airport/ils.xml -4.577942 55.505006 15.79 57.89
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.6569877 55.5483485 -55.81 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -4.594025 55.507806 11.65 180
+OBJECT_SHARED Models/Airport/marker.ac -4.681419 55.544292 2.41 180
+OBJECT_SHARED Models/Airport/marker.ac -4.630967 55.521786 7.35 180
+OBJECT_SHARED Models/Airport/localizer.xml -4.617031 55.517147 9.13 31.43
+OBJECT_SHARED Models/Airport/localizer.xml -4.567614 55.500064 17.65 211.42
+OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -4.68542 55.55199 -0.09 90
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -4.68338 55.55213 -0.07 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.68998 55.60829 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.67832 55.54968 -0.01 0

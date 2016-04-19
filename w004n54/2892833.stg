@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.6197 54.504801 137.39 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.606093 54.525645 125.82 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.57783 54.51081 107.22 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.560666 54.54799 139.53 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.556238 54.600599 92.17 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.54521 54.523967 94.51 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.5711111 54.5963888 64.22 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.5715044 54.5639876 35.8 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -3.5997222 54.5263889 -275.39 180
+OBJECT_SHARED Models/Misc/generic_lighthouse.ac -3.635 54.5136666 59.13 180
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.59576 54.55169 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.56888 54.61231 3.93 0
+OBJECT_STATIC Whitehaven_West_Pier_Light.xml -3.59813 54.55222 -0.01 200
+OBJECT_STATIC Whitehaven_North_Pier_Light.ac -3.59453 54.55248 0 168

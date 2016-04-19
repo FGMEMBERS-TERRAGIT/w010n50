@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.220201 51.467823 112.34 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.193931 51.403961 55.13 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.183221 51.443563 41.79 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.107287 51.492853 4.46 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -3.1780556 51.4825 -376.97 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -3.1805556 51.4780556 -395.63 180
+OBJECT_SHARED Models/Misc/generic_lighthouse.ac -3.1166666 51.375 -25.89 180
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -3.15687 51.42625 -0.52 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.14496 51.43886 -0.89 0

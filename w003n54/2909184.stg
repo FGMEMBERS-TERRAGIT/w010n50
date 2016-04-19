@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.86252 54.012165 25.8 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.827147 54.071311 30.77 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.822219 54.041541 25.55 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.810487 54.104077 17.6 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.80085 54.016681 56.8 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.755396 54.039104 133.83 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.7811111 54.0891667 40.46 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -2.7797843 54.0889984 -395.39 180
+OBJECT_SHARED Models/Maritime/Civilian/RNLI_Hovercraft.xml -2.86934 54.07617 3.39 0
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -2.86955 54.07621 3.33 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.9209 54.03275 0 0

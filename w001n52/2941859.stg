@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.23401 52.532492 18.76 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.198263 52.547472 5.42 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.192248 52.513242 -0.44 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.072288 52.541819 2.72 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.019978 52.584501 0 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.1588889 52.5591667 -388.43 180
+OBJECT_STATIC PeterboroughCathedral.ac -0.239243 52.572506 18.31 88.5

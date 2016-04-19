@@ -1,0 +1,16 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.740843 53.955388 295.92 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.706931 53.938845 251.22 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.697828 53.893614 275.73 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.675233 53.958258 281.09 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.660244 53.893522 244.6 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.633877 53.961141 247.61 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.570717 53.885417 162.77 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.531279 53.945731 146.24 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -1.6983998 53.9320466 169.52 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -1.6783333 53.9586111 238.02 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.533574 53.875458 112.78 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.533371 53.875237 113.39 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.532571 53.87574 109.02 180
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -1.532373 53.875515 108.67 180
+OBJECT_SHARED Models/Transport/SmallStation2Platforms.ac -1.735459 53.892359 121.36 45
+OBJECT_SHARED Models/Transport/SmallStation2Platforms.ac -1.715125 53.876076 136.58 45

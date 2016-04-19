@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.849484 51.609557 105.81 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.778836 51.571482 5.85 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.9755713 51.5471161 -388.23 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.9727006 51.5477694 -390.04 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.9688203 51.548431 -389.04 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.9244444 51.5752778 -397.92 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.9244444 51.5788889 -393.32 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -2.9111111 51.5736111 -395.04 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9922222 51.5488889 -82.53 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9866667 51.5472222 -78.08 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9808333 51.5458333 -80.47 180
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.98497 51.53699 -0.01 0

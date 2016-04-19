@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac -2.005872 51.508342 145.81 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.04302 51.563647 97.62 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.01448 51.505137 143.27 180
+OBJECT_SHARED Models/Airport/localizer.xml -2.005683 51.505483 145.88 336

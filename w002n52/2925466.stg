@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Airport/ndb.ac -1.405833 52.411 85.07 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.496663 52.487398 108.86 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.423851 52.422112 92.15 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.375219 52.392053 92.88 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.366875 52.437086 117.87 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.316246 52.477791 140.66 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -1.4916667 52.3952778 -334.23 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -1.2838889 52.3766667 -312.96 180
+OBJECT_SHARED Models/Airport/localizer.xml -1.466928 52.377 77.34 140

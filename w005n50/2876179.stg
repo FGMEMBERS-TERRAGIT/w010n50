@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.242623 50.355468 107.39 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.117844 50.363259 6.09 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.114174 50.347109 105.98 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.100945 50.321887 85.29 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.073923 50.344362 102.31 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.053727 50.304625 106.87 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.020961 50.36126 96.46 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.0436162 50.3088513 16.8 180
+OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -4.15172 50.36292 0.98 260
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.17308 50.36218 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.12785 50.36234 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.06863 50.31112 0 0
+OBJECT_STATIC T45_D34_underway.xml -4.213 50.3021 -0.59 22
+OBJECT_STATIC PlymouthBreakwater.xml -4.147803 50.333972 -0.31 85

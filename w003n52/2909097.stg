@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Power/coolingtower.xml -2.5078613 52.6299745 58.71 180
+OBJECT_SHARED Models/Power/coolingtower.xml -2.5075 52.6294444 62.3 180
+OBJECT_SHARED Models/Power/coolingtower.xml -2.5060809 52.6293527 61.21 180
+OBJECT_SHARED Models/Power/coolingtower.xml -2.5041539 52.6288215 65.27 180
+OBJECT_SHARED Models/Power/coolingtower.xml -2.5022342 52.6289196 68.48 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.67838 52.716698 153.06 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.60999 52.663967 138.83 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.577664 52.690577 138.83 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.551445 52.66928 387.66 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.5501792 52.6698848 356.83 180
+OBJECT_STATIC IronbridgeChimney.xml -2.5116956 52.6293286 79.2 180

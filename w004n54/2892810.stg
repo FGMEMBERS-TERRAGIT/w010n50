@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.343728 54.212067 8.26 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.254376 54.192915 13.38 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3291274 54.2017813 13.62 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3279567 54.2001762 14.12 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3261806 54.1992968 13.27 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.325725 54.2042189 13.59 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3241691 54.2035169 13.46 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3238929 54.1982343 11.77 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3223529 54.2013794 12.93 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3214732 54.2055241 12.49 180
+OBJECT_SHARED Models/Power/windturbine.xml -3.3211707 54.1994058 12.81 180
+OBJECT_SHARED Models/Airport/ils.xml -3.267458 54.125706 11.81 13.95
+OBJECT_SHARED Models/Communications/vordme_1.xml -3.264614 54.127167 12.78 180
+OBJECT_SHARED Models/Airport/localizer.xml -3.269914 54.134597 11.51 76.12
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.27679 54.15103 0 0

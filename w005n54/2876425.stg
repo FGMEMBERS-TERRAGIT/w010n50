@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.718571 54.137171 418.8 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.708534 54.213933 130.96 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.669297 54.149485 471.21 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.56498 54.209533 471.78 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.536367 54.159309 138.5 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.6167059 54.1673615 103.65 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.5381635 54.1609513 66.61 180
+OBJECT_SHARED Models/Communications/mil-antena-61m.xml -4.6161301 54.2161001 282.75 180

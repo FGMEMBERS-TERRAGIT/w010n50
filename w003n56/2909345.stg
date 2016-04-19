@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.702775 56.59835 178.95 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.676599 56.547996 87.15 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.643073 56.588953 79.48 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.595436 56.616115 78.85 180
+OBJECT_SHARED Models/Maritime/Civilian/Tyne_Lifeboat.xml -2.58172 56.55517 0 45
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -2.5805 56.5547 0 0
+OBJECT_STATIC Arbroath_Lifeboat_Station.ac -2.58445183 56.5549767 0 128
