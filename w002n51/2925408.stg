@@ -9,3 +9,4 @@ OBJECT_SHARED Models/Airport/tacan.xml -1.992239 51.510136 141.27 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.7848922 51.5910805 67 180
 OBJECT_SHARED Models/Airport/marker.ac -1.970556 51.516089 124.38 180
 OBJECT_SHARED Models/Airport/marker.ac -1.850811 51.551939 120.73 180
+OBJECT_STATIC SpectrumBldgSwindon.ac -1.824287 51.566992 98.28 295

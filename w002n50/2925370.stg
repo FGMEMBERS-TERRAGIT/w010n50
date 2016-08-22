@@ -250,6 +250,8 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -1.3749678 50.9100691 0 1
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -1.3746509 50.9122728 0 27.43
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -1.3625288 50.8775711 -0.02 104.15
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -1.3620865 50.8756957 -0.04 61.05
+OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -1.358992 50.952358 11.63 248
+OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8.ac -1.358938 50.95245 11.62 248
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.4109339 50.8943603 -0.02 309.05
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.3908243 50.8834551 -0.02 12
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -1.3875232 50.8784483 -0.09 267.66
@@ -275,3 +277,5 @@ OBJECT_STATIC MarchwoodIncineratorSoton.ac -1.438548 50.899865 -1 55
 OBJECT_STATIC MarchwoodPowerStation.ac -1.43788 50.898231 -2.31 235
 OBJECT_STATIC ItchenBridgeSoton.ac -1.38205 50.89885 4.59 91
 OBJECT_STATIC SouthamptonFC.ac -1.390955 50.905827 0.22 86.5
+OBJECT_STATIC Southampton_Fire.ac -1.359377 50.952307 11.64 160
+OBJECT_STATIC Southampton_Hangars.ac -1.359225 50.95259 11.61 158.3

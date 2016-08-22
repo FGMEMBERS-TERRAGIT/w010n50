@@ -12,3 +12,5 @@ OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -1.735572 52.447197 7.7
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -1.735282 52.448209 7.33 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -1.734861 52.448119 7.35 180
 OBJECT_SHARED Models/Airport/localizer.xml -1.738644 52.445411 102.18 235.81
+OBJECT_STATIC nhotel_egbb.xml -1.73145055 52.4526945 100.01 159.5
+OBJECT_STATIC taxi_egbb.xml -1.73021304 52.4515211 100.28 160.7
