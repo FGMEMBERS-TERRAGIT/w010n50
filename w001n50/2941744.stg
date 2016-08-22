@@ -20,3 +20,9 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -0.9358333 50.7777833 0 
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -0.9650655 50.8339419 -0.13 334.14
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -0.9647756 50.8342377 -0.07 119.17
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -0.93059 50.78263 -0.01 0
+OBJECT_STATIC Goodwood_Terrace.ac -0.75303064 50.8590258 27.56 276
+OBJECT_STATIC Goodwood_Parking.ac -0.75408037 50.8574588 27.36 92
+OBJECT_STATIC Goodwood4_Hangars.ac -0.75528867 50.8600429 28.76 4
+OBJECT_STATIC Goodwood2_Hangars.ac -0.75527161 50.8605947 29.15 4.4
+OBJECT_STATIC GoodwoodLong_Hangar.ac -0.75531806 50.8608896 29.43 6.7
+OBJECT_STATIC GoodwoodHuge_Hangar.ac -0.75519097 50.8587664 28.06 6.5

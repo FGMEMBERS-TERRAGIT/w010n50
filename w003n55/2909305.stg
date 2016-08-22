@@ -11,6 +11,10 @@ OBJECT_SHARED Models/Power/windturbine.xml -2.55 55.9333333 288.61 180
 OBJECT_SHARED Models/Power/windturbine.xml -2.5166667 55.9022222 340.66 180
 OBJECT_SHARED Models/Power/windturbine.xml -2.5130555 55.895 346.32 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.7399531 55.9532469 9.37 180
+OBJECT_SHARED Models/Military/t2.ac -2.7238 55.9951 36.64 80
+OBJECT_SHARED Models/Military/t2.ac -2.7214 55.9959 34.04 100
+OBJECT_SHARED Models/Military/t2.ac -2.7187 55.995 31.28 310
+OBJECT_SHARED Models/Military/t2.ac -2.7174 55.9964 30.04 310
 OBJECT_SHARED Models/Airport/hangar3.ac -2.72734813 55.99860194 37.39 334
 OBJECT_SHARED Models/Boundaries/fence-80.xml -2.72951802 55.99939516 37.6 4
 OBJECT_SHARED Models/Boundaries/fence-80.xml -2.72263886 55.99975231 34.13 69.5

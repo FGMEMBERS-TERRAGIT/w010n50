@@ -33,3 +33,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5067837 53.2102135 54.59 109.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5038391 53.2070482 52.27 117.83
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5038275 53.228012 4.27 22.13
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5021719 53.2050495 48.03 118.45
+OBJECT_STATIC WestgateWTLincoln.ac -0.541072 53.236638 66.06 357

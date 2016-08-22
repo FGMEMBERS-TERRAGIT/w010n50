@@ -11,8 +11,6 @@ OBJECT_SHARED Models/Power/windturbine.xml -0.1011111 53.6675 2.66 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.2491667 53.6338889 -369.12 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.2458333 53.6322222 -393.34 180
 OBJECT_SHARED Models/Industrial/generic_flare_01.ac -0.2397222 53.6330556 -100.4 180
-OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -0.243083 53.734667 -63.41 180
-OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -0.243019 53.734823 -62.82 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -0.231721 53.734432 -80.2 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -0.24237 53.734061 -63.33 180
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -0.241629 53.730139 -71.24 180
@@ -71,3 +69,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -0.1998 53.66705 -0.2
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -0.188833 53.65175 -0.25 345.5
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -0.165467 53.642 -0.15 167.84
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac -0.23455 53.674683 -0.11 101
+OBJECT_STATIC SaltendCogenPlant.ac -0.243028 53.735415 13.12 88
