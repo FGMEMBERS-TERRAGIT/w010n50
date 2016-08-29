@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>Belfastroads0808.ac</path>
+<effect>
+<!--
+    EITHER enable the traffic shader
+        <inherits-from>Effects/road-high</inherits-from>
+    OR the lightmap shader
+        <inherits-from>roads</inherits-from>
+-->
+        <inherits-from>Effects/road-high</inherits-from>
+        <object-name>Belfastroads0808</object-name>
+</effect>
+</PropertyList>
