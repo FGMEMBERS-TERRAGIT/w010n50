@@ -8,7 +8,7 @@
 <animation>
 <type>shader</type>
 <shader>chrome</shader>
-<texture>EGLL-tower1.png</texture>
+<texture>chrome1.png</texture>
 
 <object-name>windows.001</object-name>
 <object-name>roof-window</object-name>
