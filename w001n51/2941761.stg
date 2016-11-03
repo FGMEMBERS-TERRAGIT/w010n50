@@ -313,7 +313,7 @@ OBJECT_SHARED Models/Boundaries/Fence_80.xml -0.53831005 51.11887172 54.49 24
 OBJECT_SHARED Models/Boundaries/Fence_80.xml -0.53711861 51.11877324 53.88 289.5
 OBJECT_SHARED Models/Transport/hummerh2.xml -0.53686964 51.11947301 54.59 20
 OBJECT_SHARED Models/Airport/Vehicle/traffic.xml -0.53487068 51.11456649 51.36 0
-OBJECT_SHARED Models/Aircraft/vintage1.xml -0.53004611 51.12040416 52.2 200
+OBJECT_SHARED Models/Aircraft/vintage1-ba.ac -0.53004611 51.12040416 52.2 200
 OBJECT_SHARED Models/Airport/zone_services.ac -0.53500414 51.11931333 53.49 112
 OBJECT_SHARED Models/Commercial/hotel-generic-01.xml -0.54302164 51.11834411 55.42 17
 OBJECT_SHARED Models/Commercial/hotel-generic-01.xml -0.53894878 51.11851167 54.38 112

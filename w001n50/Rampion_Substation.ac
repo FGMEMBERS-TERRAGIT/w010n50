@@ -8,7 +8,7 @@ MATERIAL "0131_Silver" rgb 0.7529 0.7529 0.7529 amb 0.4 0.4 0.4 emis 0 0 0 spec 
 MATERIAL "0041_Chocolate" rgb 0.8235 0.4118 0.1176 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
 MATERIAL "0137_Black" rgb 0.0000 0.0000 0.0000 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
 MATERIAL "0128_White" rgb 1.0000 1.0000 1.0000 amb 0.4 0.4 0.4 emis 1 1 1 spec 0.2 0.2 0.2 shi 128 trans 0.0000
-MATERIAL "[0001_PaleVioletRed]2" rgb 0.8588 0.4392 0.5765 amb 0.4 0.4 0.4 emis 1 1 1 spec 0.2 0.2 0.2 shi 128 trans 1
+MATERIAL "[0001_PaleVioletRed]2" rgb 0.8588 0.4392 0.5765 amb 0.4 0.4 0.4 emis 1 1 1 spec 0.2 0.2 0.2 shi 128 trans 0
 OBJECT world
 kids 10
 OBJECT poly
@@ -1194,7 +1194,7 @@ refs 3
 130 0 0
 kids 0
 OBJECT poly
-name “Blank1”
+name "Blank1"
 numvert 6
 0.014785 -0.139732 3.320072
 0.002356 -0.139732 3.323402
@@ -6277,7 +6277,7 @@ refs 3
 15 0 0
 kids 0
 OBJECT poly
-name “Flash1”
+name "Flash1"
 crease 67.50000000000001
 numvert 16
 -39.416616 39.206462 37.570315

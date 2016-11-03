@@ -7,7 +7,6 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -3.7836111 51.5775 -351.9
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -3.7747222 51.5577778 -350.92 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -3.7744444 51.5813889 -367.55 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -3.7619444 51.5688889 -370.06 180
-OBJECT_SHARED Models/Misc/generic_lighthouse.ac -3.9701666 51.5665 -33 180
 OBJECT_SHARED Models/Maritime/Civilian/Tyne_Lifeboat.xml -3.97433 51.57075 -0.05 75
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -3.96738 51.57023 -0.16 0
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -3.811116 51.5763 -0.02 0
@@ -18,3 +17,7 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -3.8334333 51.6235833 3.4
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.92778 51.60375 -0.12 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.78713 51.58622 0 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -3.8702167 51.5561667 -3.37 138.87
+OBJECT_STATIC Mumbles_Lighthouse.xml -3.97102785 51.5668615 0 84
+OBJECT_STATIC RNLI_Mumbles_A.ac -3.97352109 51.5696383 -0.03 104
+OBJECT_STATIC RNLI_Mumbles_B.ac -3.97468216 51.5699701 -0.03 102.7
+OBJECT_STATIC RNLI_Mumbles_Pier.ac -3.97603979 51.5691811 0 16
