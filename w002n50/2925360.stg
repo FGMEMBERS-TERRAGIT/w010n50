@@ -93,7 +93,6 @@ OBJECT_SHARED Models/Misc/apronworker2.xml -1.8357916 50.7789596 10.34 0
 OBJECT_SHARED Models/Misc/apronworker2.xml -1.8356725 50.7777707 10.26 0
 OBJECT_SHARED Models/Misc/apronworker2.xml -1.8353557 50.7777042 10.3 0
 OBJECT_SHARED Models/Misc/apronworker2.xml -1.833269 50.7778401 10.67 0
-OBJECT_SHARED Models/Misc/apronworker2.xml -1.8331182 50.7777064 10.69 0
 OBJECT_SHARED Models/Misc/apronworker3.xml -1.8360893 50.7791613 10.31 0
 OBJECT_SHARED Models/Misc/apronworker3.xml -1.8356325 50.7778183 10.27 0
 OBJECT_SHARED Models/Misc/apronworker4.xml -1.8332097 50.7776164 10.67 0
@@ -101,7 +100,6 @@ OBJECT_SHARED Models/Misc/apronworker5.xml -1.8361445 50.7788375 10.29 0
 OBJECT_SHARED Models/Misc/apronworker5.xml -1.8356948 50.779076 10.35 0
 OBJECT_SHARED Models/Misc/apronworker5.xml -1.8338683 50.7772872 10.51 0
 OBJECT_SHARED Models/Misc/apronworker5.xml -1.8332408 50.7773419 10.65 0
-OBJECT_SHARED Models/Misc/apronworker5.xml -1.8331201 50.7777255 10.69 0
 OBJECT_SHARED Models/Transport/motorhome.ac -1.8290962 50.7799852 11.19 97
 OBJECT_SHARED Models/Airport/appliance_room.xml -1.8299513 50.7801355 11.01 188.9
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac -1.832749 50.7769745 9.96 45
@@ -117,3 +115,5 @@ OBJECT_SHARED Models/Airport/EGHH_tower.ac -1.836035 50.779112 10.32 50
 OBJECT_SHARED Models/Airport/EGHH_fire_station.ac -1.835692 50.778516 10.34 95
 OBJECT_SHARED Models/Airport/av8jet.ac -1.830295 50.785011 10.28 341
 OBJECT_SHARED Models/Commercial/4com_eghh.ac -1.830009 50.784629 10.26 71
+OBJECT_STATIC EGHH_terminal.ac -1.833097 50.7779 11.21 3.5
+OBJECT_STATIC bournemouth_flying_club.ac -1.829605 50.784293 10.28 135

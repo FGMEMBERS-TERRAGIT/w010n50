@@ -6,3 +6,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.515289 53.801478 80.34 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.6901746 53.7560529 -27.35 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.6055556 53.8341667 91.87 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac -2.7188889 53.7625 20.36 180
+OBJECT_STATIC HarrisMuseumPreston.ac -2.698161 53.759154 46.68 105

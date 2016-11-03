@@ -620,3 +620,4 @@ OBJECT_SHARED Models/Power/transformer_station.ac -1.2378316 54.605304 2.92 90
 OBJECT_SHARED Models/Power/transformer_station.ac -1.2378155 54.6056111 2.84 270
 OBJECT_SHARED Models/Power/transformer_station.ac -1.2026411 54.607165 3.8 90
 OBJECT_SHARED Models/Power/transformer_station.ac -1.2022584 54.607165 3.94 90
+OBJECT_STATIC Middlesbrough_Wheel.xml -1.234468 54.574495 12.73 10
