@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Airport/ndb.ac -3.145056 58.829861 2.06 180
+OBJECT_SHARED Models/Industrial/oilrig.ac -3.1223333 58.8696666 -0.76 180
+OBJECT_SHARED Models/Industrial/oilrig.ac -3.0971666 58.8713333 -1.28 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.24799 58.831651 169.37 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.20412 58.787968 54.36 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.122979 58.827563 56.01 180
+OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml -3.22258 58.78005 0 270
+OBJECT_STATIC Cantick_Head_Lighthouse.xml -3.12972963 58.78667212 -0.02 332
+OBJECT_STATIC Ruff_Reef_Light.xml -3.1302781 58.7905126 -0.02 128

@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.894037 55.712232 127.52 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.825028 55.741751 370.81 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.803784 55.69394 230.37 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.775024 55.73072 325.98 180
+OBJECT_SHARED Models/Power/windturbine.xml -4.8122222 55.6841667 197.26 180
+OBJECT_SHARED Models/Power/windturbine.xml -4.8072222 55.6858333 209.39 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.8404482 55.6952679 118.52 180
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.82537 55.64127 0 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -4.91985 55.7245168 -0.1 80.92
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -4.9148311 55.735833 -0.09 128.11
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -4.9077984 55.7443781 -0.04 230.8
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -4.8989135 55.7494882 -0.03 309.7
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -4.9524876 55.7406017 -0.06 334.41

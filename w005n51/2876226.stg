@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.470624 51.01967 146.6 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.4902272 51.0026854 74.42 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -4.27044 51.08754 -3.35 213.26

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>Leverburgh_Lighthouse.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>16000</max-m>
+ </animation>
+
+ <animation>
+ <type>material</type> 
+ <object-name>Light</object-name>
+ <condition>		
+  <greater-than>		
+   <property>/sim/time/sun-angle-rad</property>
+   <value>1.57</value>
+  </greater-than>
+ </condition>
+ <emission>	
+  <red>1</red>	
+  <green>1</green>	
+  <blue>1</blue>
+ </emission>
+</animation>
+
+<model>
+  <path>Models/Fauna/SeaGull_Origin.xml</path>
+  <offsets>
+  <x-m> 0.0</x-m>
+  <y-m> 00.0</y-m>
+  <z-m> 15.0</z-m>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Fauna/SeaGull_Origin_2.xml</path>
+  <offsets>
+  <x-m> 0.0</x-m>
+  <y-m> 00.0</y-m>
+  <z-m> 20.0</z-m>
+  </offsets>
+</model>
+
+</PropertyList>

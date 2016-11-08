@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.490413 52.261679 100.35 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.436687 52.293872 101.81 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.419449 52.345115 113.3 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.322718 52.318672 107.41 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.254198 52.2666 163.67 180
+OBJECT_SHARED Models/Airport/ils.xml -1.484192 52.365806 81.39 310
+OBJECT_SHARED Models/Airport/ils.xml -1.475047 52.373717 81.14 130
+OBJECT_SHARED Models/Communications/vordme_1.xml -1.48075 52.370525 84.37 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -1.480747 52.370525 84.37 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -1.2572222 52.3519444 -231 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -1.3855556 52.2713889 -315.3 180
+OBJECT_SHARED Models/Airport/localizer.xml -1.491122 52.363356 82.08 320

@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Airport/ndb.ac -5.832865 57.25483 0.96 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.864213 57.274006 24.83 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.825236 57.338659 100.74 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.779453 57.267273 26.99 180
+OBJECT_SHARED Models/Airport/hangar2.ac -5.8252747 57.2532991 9.11 207
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -5.9418954 57.3303696 -0.76 272.59
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -5.930951 57.3189949 -0.27 81.72

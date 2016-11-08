@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Airport/ndb.ac -3.587042 57.650408 5.12 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.698561 57.639624 28.16 180
+OBJECT_SHARED Models/Airport/ils.xml -3.546322 57.65095 10.29 106.93
+OBJECT_SHARED Models/Airport/tacan.xml -3.535114 57.659264 9.29 180
+OBJECT_SHARED Models/Airport/marker.ac -3.526614 57.655822 8.41 180
+OBJECT_SHARED Models/Airport/localizer.xml -3.577269 57.647528 5.58 344.03
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.6517 57.67061 -0.57 0

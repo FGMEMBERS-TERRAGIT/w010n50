@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.747127 55.333251 182.36 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.704963 55.262755 101.73 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.666074 55.28989 56.63 180
+OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -1.58193 55.33653 1.32 75
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -1.565 55.34181 -0.28 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -1.57788 55.33816 0.82 0
+OBJECT_STATIC Coquet_Lighthouse.xml -1.53669617 55.3333342 -0.49 96

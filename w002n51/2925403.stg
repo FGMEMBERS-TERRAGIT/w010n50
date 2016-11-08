@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.174454 51.495186 149.28 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.173227 51.410051 112.17 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.077654 51.49504 98.55 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.008219 51.491785 98.44 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -1.0502778 51.4522222 93.75 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2406494 51.3940497 67.91 321.63
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2399358 51.3936972 67.3 321.63
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2113087 51.3859745 70.32 95.82
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2111926 51.3852631 73.74 95.82
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.20971 51.3767852 99.62 276.12
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.209588 51.3760749 98.49 276.12
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.0659593 51.4323349 48.34 286.33
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.0657924 51.4319798 48.09 286.95
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.0654858 51.4313758 47.41 287.56
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -1.219722 51.491667 146.92 180

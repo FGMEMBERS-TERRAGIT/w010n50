@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <path>Tower_of_Refuge.ac</path>
+
+  <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-m>15000</max-m>
+  </animation>
+
+  <animation>
+    <type>range</type>
+    <object-name>Flag1</object-name>
+    <min-m>0</min-m>
+    <max-m>2000</max-m>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>Flag1</object-name>
+    <property>/environment/wind-from-heading-deg</property>
+    <factor>-1</factor>
+    <axis>
+      <x>0</x>
+      <y>0</y>
+      <z>1</z>
+    </axis>
+    <center>
+      <x-m>-0.04</x-m>
+      <y-m>-1.30</y-m>
+      <z-m>15.75</z-m>
+    </center>
+  </animation>
+
+<animation>
+    <type>range</type>
+    <object-name>Flag2</object-name>
+    <min-m>0</min-m>
+    <max-m>2000</max-m>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>Flag2</object-name>
+    <property>/environment/wind-from-heading-deg</property>
+    <factor>-1</factor>
+    <axis>
+      <x>0</x>
+      <y>0</y>
+      <z>1</z>
+    </axis>
+    <center>
+      <x-m>-0.04</x-m>
+      <y-m>1.37</y-m>
+      <z-m>15.75</z-m>
+    </center>
+  </animation>
+
+  </PropertyList>

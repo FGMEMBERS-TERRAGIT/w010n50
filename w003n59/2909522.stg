@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.4348 59.364717 17.78 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.415057 59.280853 6.11 180
+OBJECT_STATIC Start_Point_Orkney_Lighthouse.xml -2.37612469 59.27627384 -0.06 176
+OBJECT_STATIC Start_Point_Orkney_Lighthouse_Accom.ac -2.37635331 59.27625785 -0.06 0
+OBJECT_STATIC Start_Point_Orkney_Lighthouse_Solar_Power.ac -2.37616581 59.27616729 -0.07 0

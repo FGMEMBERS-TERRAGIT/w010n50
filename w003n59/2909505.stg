@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.668597 59.080008 39.66 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.544881 59.094067 43.37 180
+OBJECT_SHARED Models/Power/windturbine.xml -2.6647222 59.0833333 32.32 180
+OBJECT_STATIC Auskerry_Lighthouse.xml -2.57000187 59.0266697 1.2 312

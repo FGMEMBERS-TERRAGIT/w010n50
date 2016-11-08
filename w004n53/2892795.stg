@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -3.0041667 53.8897222 -398.39 180
+OBJECT_SHARED Models/Maritime/Civilian/Tyne_Lifeboat.xml -3.02165 53.93145 4.23 355
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -3.02198 53.93145 4.14 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.01089 53.93118 0 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -3.2149 53.9340667 -4.88 73.94

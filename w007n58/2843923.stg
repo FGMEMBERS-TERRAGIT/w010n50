@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.224917 58.344767 112.95 180
+OBJECT_SHARED Models/Misc/generic_lighthouse.ac -6.1383333 58.26 -20.36 180
+OBJECT_STATIC Tiumpan_Head_Lighthouse.xml -6.13835411 58.25998731 8.52 168
+OBJECT_STATIC Tiumpan_Head_Lighthouse_Buildings.xml -6.13856176 58.25995097 10.35 192

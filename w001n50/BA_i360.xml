@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Thanks for animation by Martien van den Plas.-->
+<PropertyList>
+
+ <path>BA_i360.ac</path>
+
+ <animation>
+  <type>translate</type>
+  <object-name>Gondola</object-name>
+
+  <object-name>Gondola1</object-name>
+  <object-name>Gondola2</object-name>
+  <object-name>Gondola3</object-name>
+  <object-name>Gondola4</object-name>
+  <object-name>Gondola5</object-name>  <object-name>Gondola6</object-name>  <property>/ai/models/BA_i360/move</property>
+  <offset-m>1</offset-m>
+
+
+  
+<axis>
+   <x>0</x>
+   <y>0</y>
+   <z>1</z>
+  </axis>
+ </animation>
+
+ 
+
+<nasal>
+    <load>
+        var time_node = props.globals.getNode("/sim/time/elapsed-sec");
+        var move_node = props.globals.getNode("/ai/models/BA_i360/move");
+
+        var loopid = 1;
+        var loop = func(id) {
+            if (id != loopid) return;
+
+            var movecyclesec = 90.0;
+            var movedistance = 69.0;
+
+            var movetimer = time_node.getValue()/movecyclesec - int(time_node.getValue()/movecyclesec);
+            var movewave = math.sin(2*math.pi*movetimer);
+            move_node.setValue(movewave*movedistance);
+            
+            settimer(func { loop(id); }, 0);
+        }
+        settimer(func { loop(loopid); }, 0);
+    </load>
+    <unload>
+       loopid += 1;
+    </unload>
+</nasal>
+
+</PropertyList>
+

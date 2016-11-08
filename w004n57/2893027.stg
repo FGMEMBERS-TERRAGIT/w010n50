@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.242204 57.578148 333.28 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.185597 57.581199 188.13 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.153664 57.518595 464.5 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.118762 57.563546 170.61 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.070268 57.575429 252.22 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.032664 57.511711 334.46 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.032093 57.551178 309.84 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.1352778 57.5327778 322 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.1341241 57.5325743 -125.14 180
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.2033231 57.5195508 65.15 0
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.2 57.516666667 68.12 0
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.2 57.516666667 68.12 0
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.2 57.533333333 64.94 0
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.2 57.533333333 64.94 0
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.1 57.55 111.61 0

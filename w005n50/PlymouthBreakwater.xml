@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList> 
+
+<path>PlymouthBreakwater.ac</path>
+
+ <animation>
+  <type>select</type>
+ <object-name>LightOn</object-name>
+ <object-name>LightOff</object-name>
+   <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+ </animation>
+ 
+ <animation>
+  <type>timed</type>
+  <object-name>LightOn</object-name>
+  <object-name>LightOff</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>2</branch-duration-sec>
+  <branch-duration-sec>8</branch-duration-sec>  
+ </animation>
+ 
+</PropertyList>

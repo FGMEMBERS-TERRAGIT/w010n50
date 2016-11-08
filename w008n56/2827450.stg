@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -7.468197 56.966127 353.58 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -7.443396 56.918667 138.4 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -7.369597 56.996085 91.66 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -7.4127778 56.9802778 -30.41 180
+OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -7.48539 56.95412 0 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -7.4536333 56.9346833 -0.1 144.6
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -7.3884 56.9358 -2.35 254.89
+OBJECT_STATIC Kisimul_Castle.ac -7.4468016 56.9518914 21.33 0

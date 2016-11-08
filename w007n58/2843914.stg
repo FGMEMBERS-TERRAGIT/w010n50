@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Airport/ndb.ac -6.329078 58.215481 3.13 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.375868 58.134003 88.14 180
+OBJECT_SHARED Models/Airport/ils.xml -6.332975 58.203658 9.36 0.05
+OBJECT_SHARED Models/Airport/ils.xml -6.332975 58.225678 4.17 174.29
+OBJECT_SHARED Models/Communications/vordme_1.xml -6.329103 58.215156 3.15 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -6.329078 58.215481 3.13 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -6.326047 58.214383 3.57 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -6.3839222 58.200137 -0.02 302.71
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -6.3684729 58.1991566 -0.01 348.32
+OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -6.38955 58.21014 0 185
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -6.3674807 58.1926102 -0.01 181.06
+OBJECT_STATIC Arnish_Point_Lighthouse.xml -6.3698403 58.18930425 0 256

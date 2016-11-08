@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.449954 51.145278 375.43 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.333293 51.140282 156.13 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.299499 51.174861 75.45 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.4077422 51.1736408 -5.18 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.3486111 51.1605556 -303.74 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.3472546 51.1599634 -25.31 180
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -3.44556 51.21655 -0.47 0
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -3.44579 51.21655 -0.46 0
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -3.4717333 51.2162333 -0.02 30.77

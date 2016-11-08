@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.245317 54.083736 64.97 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.226056 54.025583 20.41 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.218743 54.124506 105.37 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -0.089715 54.117988 48.77 180
+OBJECT_SHARED Models/Misc/generic_lighthouse.ac -0.081 54.1161666 12.01 180
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -0.18265 54.08078 -0.18 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -0.188 54.07603 -0.24 0

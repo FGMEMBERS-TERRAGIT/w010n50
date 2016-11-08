@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.217648 54.056701 12 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -3.2269256 54.1113383 -38.89 180
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -3.18859 54.08415 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.16865 54.06911 0 0
+OBJECT_STATIC Rampside_Tower.xml -3.16281967 54.08667417 7.72 320
+OBJECT_STATIC Barrow_Lifeboat_Station.ac -3.17324088 54.0721275 -1 108

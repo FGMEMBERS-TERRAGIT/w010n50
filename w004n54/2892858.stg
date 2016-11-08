@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.480255 54.972049 6.6 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.332738 54.981754 26.46 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -3.286684 54.919054 11.2 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2877227 54.9141448 -363.5 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2868107 54.9083043 -367.15 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.284504 54.9113696 -362.62 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2819184 54.9145272 -358.72 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2810279 54.9084955 -368.19 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2793113 54.9174995 -363.07 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2784315 54.9116595 -356.11 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2775839 54.9058062 -359.21 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2758244 54.9148355 -358.77 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2749875 54.9087894 -364.35 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2724233 54.9119555 -361.51 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2700415 54.9150329 -362.15 0
+OBJECT_SHARED Models/Communications/radio-tall.xml -3.2692261 54.9091616 -361.68 0
+OBJECT_SHARED Models/Communications/mil-antena-61m.xml -3.2669777 54.9071555 9.16 180

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>aircraft-shelter.ac</path>
+
+  <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+  </animation>
+  
+   <animation>
+	<object-name>roof.upper</object-name>
+	<object-name>structure.upper</object-name>
+	<enable-hot type="bool">false</enable-hot>
+  </animation>
+  
+  
+
+</PropertyList>

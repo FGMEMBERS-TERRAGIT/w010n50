@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>Jill_Windmill.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>20000</max-m>
+ </animation>
+
+ <animation>
+    <type>rotate</type>
+    <property>/environment/wind-from-heading-deg</property>
+    <factor>-1</factor>
+    <axis>
+      <x>0</x>
+      <y>0</y>
+      <z>1</z>
+    </axis>
+    <center>
+      <x-m>0</x-m>
+      <y-m>0</y-m>
+      <z-m>0</z-m>
+    </center>
+  </animation>
+
+ <animation>
+  <type>spin</type>
+  <object-name>Sail</object-name>
+  <use-personality type="bool">true</use-personality>
+  <property>/environment/wind-speed-kt</property>
+  <factor>
+   <random>
+    <min>0.4</min>
+    <max>0.6</max>
+   </random>
+  </factor>
+  <starting-pos-deg>
+   <random>
+    <min>0</min>
+    <max>360</max>
+   </random>
+  </starting-pos-deg>
+  <axis>
+   <x>0.0</x>
+   <y>-1.0</y>
+   <z>0.0</z>
+  </axis>
+  <center>
+   <x-m>0.0</x-m>
+   <y-m>0.0</y-m>
+   <z-m>9.25</z-m>
+  </center>
+ </animation>
+
+</PropertyList>

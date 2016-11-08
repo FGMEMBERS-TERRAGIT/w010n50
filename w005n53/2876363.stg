@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.246983 53.191755 55.06 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.246936 53.191711 55.29 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.228028 53.249401 102.31 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.176671 53.182335 133.98 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.129761 53.218175 108.49 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.110474 53.173197 381.06 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.023333 53.207291 572.81 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.000822 53.147731 1030.33 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.1289493 53.1367089 264.78 180
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -4.10093 53.24763 -0.03 0

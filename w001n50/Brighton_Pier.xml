@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<path>Brighton_Pier.ac</path>
+
+<animation>
+ <type>timed</type>
+ <object-name>25</object-name>
+ <object-name>26</object-name>
+ <use-personality type="bool">true</use-personality>
+ <branch-duration-sec>
+  <random>
+   <min>0.25</min>
+   <max>0.25</max>
+  </random>
+ </branch-duration-sec>
+ <branch-duration-sec>
+  <random>
+   <min>0.25</min>
+   <max>0.25</max>
+  </random>
+ </branch-duration-sec>
+</animation>
+
+<animation>
+ <type>timed</type>
+ <object-name>4</object-name>
+ <object-name>8</object-name>
+ <use-personality type="bool">true</use-personality>
+ <branch-duration-sec>
+  <random>
+   <min>1.0</min>
+   <max>1.0</max>
+  </random>
+ </branch-duration-sec>
+ <branch-duration-sec>
+  <random>
+   <min>1.0</min>
+   <max>1.0</max>
+  </random>
+ </branch-duration-sec>
+</animation>
+
+<model>
+  <path>Models/Sport/SuperBooster.xml</path>
+  <offsets>
+  <x-m> -31.5</x-m>
+  <y-m> 425.0</y-m>
+  <z-m> 8.2</z-m>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Sport/FerrisWheel.xml</path>
+  <offsets>
+  <x-m> 0.0</x-m>
+  <y-m> 502.5</y-m>
+  <z-m> 8.2</z-m>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Sport/MerryGoRound.xml</path>
+  <offsets>
+  <x-m> 35.0</x-m>
+  <y-m> 455.0</y-m>
+  <z-m> 8.2</z-m>
+  </offsets>
+</model>
+
+</PropertyList>

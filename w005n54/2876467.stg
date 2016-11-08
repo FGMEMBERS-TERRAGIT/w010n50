@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.190726 54.819925 54.63 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.136595 54.795919 71.45 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.11388 54.850688 125.26 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.005931 54.868025 136.95 180
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -4.06065 54.8391 2.29 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.06788 54.82776 0.64 0
+OBJECT_STATIC Kirkcudbright_Lifeboat_Station.ac -4.060711 54.831808 4.64 66

@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.720655 57.662488 194.91 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.698699 57.630274 95.05 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -2.618776 57.632406 152.85 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -2.5243944 57.6443825 25.06 180
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -2.55 57.666666667 22.99 0

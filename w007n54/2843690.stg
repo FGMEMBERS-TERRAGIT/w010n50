@@ -1,0 +1,8 @@
+# osm2roads_Belfast
+# do not edit below this line
+# Last Written 01/14/16 15:34:38
+#
+OBJECT_STATIC Belfastroads0005.xml -6.25376 54.64066 53.53 0
+OBJECT_STATIC Belfastroads0006.xml -6.25376 54.65862 44.32 0
+OBJECT_STATIC Belfastroads0007.xml -6.25376 54.67659 23.28 0
+# END osm2roads_Belfast

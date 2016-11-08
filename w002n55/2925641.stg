@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -1.705295 55.207124 126.89 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -1.6577133 55.1713744 13.85 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -1.5192975 55.2046987 -378.96 180
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -1.50828 55.18392 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -1.54878 55.16287 2.85 0

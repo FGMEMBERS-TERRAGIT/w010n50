@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>LongshipsLighthouse.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>25000</max-m>
+ </animation>
+
+ <animation>
+  <type>spin</type>
+  <object-name>Light</object-name>
+  <use-personality type="bool">true</use-personality>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>0.25</factor>
+  <starting-pos-deg>
+   <random>
+    <min>0</min>
+    <max>360</max>
+   </random>
+  </starting-pos-deg>                                               
+  <axis>
+   <x>0.0</x>
+   <y>0.0</y>
+   <z>52.0</z>
+  </axis>
+  <center>
+   <x-m>0.0</x-m>
+   <y-m>0.0</y-m>
+   <z-m>0.0</z-m>
+  </center>
+ </animation>
+
+<model>
+<path>Models/Airport/4m90_HelipadCollar.ac</path> 
+ <offsets>
+  <x-m> 0.20</x-m>
+  <y-m> -0.25</y-m>
+  <z-m> 53.07</z-m>
+</offsets>
+</model>
+                             </PropertyList>
+

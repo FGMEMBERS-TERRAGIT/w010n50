@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.646043 52.905001 12.48 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.559869 52.886487 348.69 180
+OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml -4.56279 52.94665 0 105
+OBJECT_STATIC Porthdinllaen_Lifeboat_Station.ac -4.56389904 52.9467071 0 168

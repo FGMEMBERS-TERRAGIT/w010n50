@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.926973 50.588389 73.76 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.757393 50.568414 152.17 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -4.8286839 50.5892657 -0.52 180
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -4.9343333 50.5460333 0.41 14.61
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.93661 50.56818 -0.02 0
