@@ -2,3 +2,10 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -1.633226 59.546001 199.76 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -1.65 59.515 -12.77 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -1.6083333 59.5533333 -36.02 180
 OBJECT_STATIC Fair_Isle_North_Lighthouse.xml -1.60833616 59.55333469 -0.02 27.3
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -1.62902 59.53413 69.41 0
+OBJECT_SHARED Models/lib/cars2.ac -1.62890 59.53403 69.22 348.818
+OBJECT_SHARED Models/lib/shed8x10.ac -1.62870 59.53397 69.19 80.705
+# END dsf2stg
