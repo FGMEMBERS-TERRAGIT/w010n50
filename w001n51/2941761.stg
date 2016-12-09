@@ -274,7 +274,7 @@ OBJECT_SHARED Models/Airport/hangar3.ac -0.53840779 51.11894915 54.62 292
 OBJECT_SHARED Models/Commercial/medium-glass-office-building.ac -0.53582741 51.11944951 54.05 20
 OBJECT_SHARED Models/Commercial/medium-glass-office-building.ac -0.53573325 51.11947161 54.03 20
 OBJECT_SHARED Models/Airport/hangar.ac -0.53468716 51.11469193 51.34 336
-OBJECT_SHARED Models/Aircraft/rafale-marine.ac -0.53723658 51.11494892 51.9 0
+OBJECT_SHARED Models/Aircraft/rafaleM_lowpoly.ac -0.53723658 51.11494892 51.9 0
 OBJECT_SHARED Models/Aircraft/lynx-patin.ac -0.53703725 51.11489761 53.85 332
 OBJECT_SHARED Models/Residential/ad1.xml -0.53733585 51.11906073 54.3 292
 OBJECT_SHARED Models/Residential/ad1.xml -0.53154379 51.12037744 52.93 288

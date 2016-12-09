@@ -10,3 +10,4 @@ OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9922222 51.5488889 -82.53 18
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9866667 51.5472222 -78.08 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9808333 51.5458333 -80.47 180
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.98497 51.53699 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.9669621 51.5400136 5.01 0

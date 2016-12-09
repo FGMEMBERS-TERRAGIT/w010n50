@@ -2,4 +2,5 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -3.710957 50.224989 132.85 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.664306 50.248944 105.17 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -3.7490883 50.244394 43.87 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -3.6641667 50.2283333 110.75 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.6422447 50.2225421 23.46 0
 OBJECT_STATIC StartPointLighthouse.xml -3.64116733 50.22166556 0 96

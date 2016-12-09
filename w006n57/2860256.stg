@@ -3,4 +3,5 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -5.846349 57.540718 77.7 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.811332 57.582708 25.92 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.797568 57.509165 482.95 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -5.9668739 57.5765821 0 303.78
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.9590649 57.5781022 44.57 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -5.9615131 57.5983549 -1.09 200.03

@@ -11,6 +11,7 @@ OBJECT_SHARED Models/Power/Poolbeg_Turbosteam.xml -6.1906022 53.34299092 1.2 90
 OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -6.13072 53.2994 -0.01 15
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -6.13093 53.29917 -0.01 0
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -6.13092 53.29939 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.0758445 53.275568 -2.97 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -6.21945 53.345 1.08 343.96
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -6.024883 53.341782 -2.38 47.73
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -6.021633 53.300999 -3.19 230.34

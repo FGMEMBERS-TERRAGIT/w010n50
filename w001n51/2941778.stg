@@ -288,3 +288,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2602228 51.2845008 126.08 266
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2593273 51.2631445 179.51 4.27
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2576279 51.2632197 181.87 3.18
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2546495 51.2632949 186.74 2.31
+OBJECT_STATIC Chessington_Wheel.xml -0.319617 51.348262 67.51 10
