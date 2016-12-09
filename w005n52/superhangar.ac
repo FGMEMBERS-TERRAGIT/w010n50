@@ -8,7 +8,11 @@ kids 15
 OBJECT poly
 name "Door.000"
 loc -60.6260071 9.2826328 -26.7347698
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -0.2045785 -9.3251114 5.1922331
@@ -66,7 +70,11 @@ kids 0
 OBJECT poly
 name "Door.001"
 loc -61.0856972 9.2826328 -16.3062382
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -0.2045785 -9.3251114 5.1922331
@@ -124,7 +132,11 @@ kids 0
 OBJECT poly
 name "Door.002"
 loc -61.6116676 9.2826328 -5.8434229
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -0.2045785 -9.3251114 5.1922331
@@ -182,7 +194,11 @@ kids 0
 OBJECT poly
 name "Door.003"
 loc -61.6116676 9.2826328 4.6896763
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -0.2045785 -9.3251114 5.1922331
@@ -240,7 +256,11 @@ kids 0
 OBJECT poly
 name "Door.004"
 loc -61.0856972 9.2826328 15.1524925
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -0.2045785 -9.3251114 5.1922331
@@ -298,7 +318,11 @@ kids 0
 OBJECT poly
 name "Door.005"
 loc -60.6260071 9.2826328 25.5810242
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -0.2045785 -9.3251114 5.1922331
@@ -356,7 +380,11 @@ kids 0
 OBJECT poly
 name "Door.006"
 loc 65.1445236 9.2826328 -26.7347698
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -5.6905589 -9.3792782 47.4645691
@@ -414,7 +442,11 @@ kids 0
 OBJECT poly
 name "Door.007"
 loc 65.7839279 9.2826328 -37.0768814
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -5.6905589 -9.3792782 47.4645691
@@ -472,7 +504,11 @@ kids 0
 OBJECT poly
 name "Door.008"
 loc 66.5412674 9.2826328 -47.4239197
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -5.6905589 -9.3792782 47.4645691
@@ -530,7 +566,11 @@ kids 0
 OBJECT poly
 name "Door.009"
 loc 66.5412674 9.2826328 -57.9200478
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -5.6905589 -9.3792782 47.4645691
@@ -588,7 +628,11 @@ kids 0
 OBJECT poly
 name "Door.010"
 loc 65.7839279 9.2826328 -68.3628235
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -5.6905589 -9.3792782 47.4645691
@@ -646,7 +690,11 @@ kids 0
 OBJECT poly
 name "Door.011"
 loc 65.1445236 9.2826328 -78.7180252
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 -5.6905589 -9.3792782 47.4645691
@@ -704,7 +752,11 @@ kids 0
 OBJECT poly
 name "Roof"
 loc -33.7565193 23.7450085 -0.5373810
+<<<<<<< HEAD
 texture "Hangar2.png"
+=======
+texture "superhangar1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 3670
 58.3751640 -3.7342927 -30.1007805

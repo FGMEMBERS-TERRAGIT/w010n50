@@ -8,3 +8,4 @@ OBJECT_SHARED Models/Industrial/scotch-distillery.ac -2.966666667 57.666666667 3
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -2.766666667 57.716666667 -0.73 0
 OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -2.95317 57.6808 3.45 260
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.9642 57.68254 -0.1 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.9558251 57.6786635 14.91 0

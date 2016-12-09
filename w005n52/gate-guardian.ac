@@ -14,7 +14,11 @@ kids 9
 OBJECT poly
 name "Circle"
 loc 6.9537663 0.1771660 0.0000000
+<<<<<<< HEAD
 texture "plinth.jpg"
+=======
+texture "gate-guardian1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 48
 -1.2879370 6.4748964 0.1281562
@@ -2280,7 +2284,11 @@ kids 107
 OBJECT poly
 name "F-Canopy-Surround"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 51
 -7.3959184 0.4707085 0.5917258
@@ -4253,7 +4261,11 @@ kids 0
 OBJECT poly
 name "Hull"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 1194
 -0.1278210 -0.1443389 0.9489539
@@ -14271,7 +14283,11 @@ kids 0
 OBJECT poly
 name "Intake-C"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 60
 -0.8667064 1.2360613 1.4033200
@@ -14549,7 +14565,11 @@ kids 0
 OBJECT poly
 name "L-L-SpeedBrake"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 31
 8.5321522 0.7092570 1.6432109
@@ -15083,7 +15103,11 @@ kids 0
 OBJECT poly
 name "L-U-SpeedBrake"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 22
 9.4731007 2.7247934 1.7970879
@@ -15471,7 +15495,11 @@ kids 0
 OBJECT poly
 name "L-W-Flap-Inner-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 7.7622404 1.9721243 3.5512424
@@ -15526,7 +15554,11 @@ kids 0
 OBJECT poly
 name "L-W-Flap-Inner-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 32
 7.8613167 2.2752600 2.5236883
@@ -15752,7 +15784,11 @@ kids 0
 OBJECT poly
 name "L-W-Flap-Inner-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 8.1536703 2.3770769 2.3629084
@@ -15776,7 +15812,11 @@ kids 0
 OBJECT poly
 name "L-W-Flap-Outer-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 8.1600752 1.5657973 5.2904634
@@ -15831,7 +15871,11 @@ kids 0
 OBJECT poly
 name "L-W-Flap-Outer-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 23
 8.2100868 1.8548150 4.2624373
@@ -15965,7 +16009,11 @@ kids 0
 OBJECT poly
 name "L-W-Flap-Outer-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 8.3013840 2.0624261 3.5775847
@@ -15989,7 +16037,11 @@ kids 0
 OBJECT poly
 name "L-Wing-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 35
 7.5030861 2.2996452 2.1738598
@@ -16276,7 +16328,11 @@ kids 0
 OBJECT poly
 name "L-Wing-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 68
 7.0692568 2.1439378 2.4853797
@@ -16725,7 +16781,11 @@ kids 0
 OBJECT poly
 name "L-Wing-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 35
 8.1536703 2.3770769 2.3629084
@@ -22491,7 +22551,11 @@ kids 0
 OBJECT poly
 name "LEngineBaffleInner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 5
 -0.8693741 1.2729373 1.3632433
@@ -22517,7 +22581,11 @@ kids 0
 OBJECT poly
 name "LEngineInletCone"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 35
 -1.6860197 0.4961637 1.0440749
@@ -22768,7 +22836,11 @@ kids 0
 OBJECT poly
 name "LEngineIntakeBLiner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 1.1111547 1.5445561 1.4177585
@@ -22792,7 +22864,11 @@ kids 0
 OBJECT poly
 name "LEngineIntakeLiner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 30
 1.1206373 1.3859228 1.5878198
@@ -22928,7 +23004,11 @@ kids 0
 OBJECT poly
 name "LEngineIntakeLinerC"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 16
 1.2716951 0.1425346 1.0111284
@@ -23031,7 +23111,11 @@ kids 0
 OBJECT poly
 name "LEngineVentL"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 5
 -0.0283769 0.2184149 1.7190279
@@ -23062,7 +23146,11 @@ kids 0
 OBJECT poly
 name "LEngineVentLI"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 10
 -0.0663605 0.4780434 1.7776715
@@ -23133,7 +23221,11 @@ kids 0
 OBJECT poly
 name "LEngineVentU"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 7
 -0.0995418 0.6887166 1.8610865
@@ -23173,7 +23265,11 @@ kids 0
 OBJECT poly
 name "LEngineVentUI"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 14
 -0.1189964 0.8395899 1.8711919
@@ -24769,7 +24865,11 @@ kids 0
 OBJECT poly
 name "LMG-Door-Inner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 20
 2.0167868 -0.1837175 0.9858818
@@ -24881,7 +24981,11 @@ kids 0
 OBJECT poly
 name "LMG-Door-Outer"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 18
 3.0722344 0.0939892 1.6756997
@@ -24992,7 +25096,11 @@ kids 0
 OBJECT poly
 name "LMG-Door-Rear"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 24
 4.9640622 0.1121539 1.2401910
@@ -25122,7 +25230,11 @@ kids 0
 OBJECT poly
 name "LMG-Doors-Closed"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 34
 3.0722344 0.0939892 1.6756997
@@ -25714,7 +25826,11 @@ kids 0
 OBJECT poly
 name "LTPFlap-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 13.1999884 1.5179369 3.4187493
@@ -25774,7 +25890,11 @@ kids 0
 OBJECT poly
 name "LTPFlap-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 9
 13.0332546 1.8327532 2.6736062
@@ -25836,7 +25956,11 @@ kids 0
 OBJECT poly
 name "LTPFlap-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 13.2378197 1.9895544 1.9355457
@@ -25860,7 +25984,11 @@ kids 0
 OBJECT poly
 name "LTPlane-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 25
 13.1983318 1.3651440 4.0556026
@@ -26107,7 +26235,11 @@ kids 0
 OBJECT poly
 name "LTPlane-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 10
 12.4887285 1.7242913 2.6419663
@@ -26171,7 +26303,11 @@ kids 0
 OBJECT poly
 name "LTPlane-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 25
 13.1983318 1.3651440 4.0556026
@@ -26314,7 +26450,11 @@ kids 0
 OBJECT poly
 name "NG-Door-L-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 -3.1315575 -0.6749158 -0.1968829
@@ -26338,7 +26478,11 @@ kids 0
 OBJECT poly
 name "NG-Door-L-R"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 7
 -2.9598827 -0.6528268 -0.1904392
@@ -26360,7 +26504,11 @@ kids 0
 OBJECT poly
 name "NG-Door-R-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 -3.9740720 -0.7833181 -0.2285054
@@ -26384,7 +26532,11 @@ kids 0
 OBJECT poly
 name "NG-Door-R-R"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 7
 -3.1315575 -0.6749158 -0.1968829
@@ -26550,7 +26702,11 @@ kids 0
 OBJECT poly
 name "R-Canopy-Surround"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 73
 -6.0052948 0.7501835 0.7515819
@@ -27568,7 +27724,11 @@ kids 0
 OBJECT poly
 name "R-L-SpeedBrake"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 31
 7.7766023 1.3295065 -1.0918804
@@ -28102,7 +28262,11 @@ kids 0
 OBJECT poly
 name "R-U-SpeedBrake"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 22
 8.2466955 3.2503695 -0.2203657
@@ -28490,7 +28654,11 @@ kids 0
 OBJECT poly
 name "R-W-Flap-Inner-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 8.3013840 3.6625164 -1.9075346
@@ -28545,7 +28713,11 @@ kids 0
 OBJECT poly
 name "R-W-Flap-Inner-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 32
 7.7929120 3.2149055 -0.9221261
@@ -28771,7 +28943,11 @@ kids 0
 OBJECT poly
 name "R-W-Flap-Inner-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 8.3013840 3.6625164 -1.9075346
@@ -28795,7 +28971,11 @@ kids 0
 OBJECT poly
 name "R-W-Flap-Outer-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 8.5114269 4.2139573 -3.6044347
@@ -28850,7 +29030,11 @@ kids 0
 OBJECT poly
 name "R-W-Flap-Outer-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 23
 8.1407576 3.8014493 -2.6125467
@@ -28984,7 +29168,11 @@ kids 0
 OBJECT poly
 name "R-W-Flap-Outer-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 8.5114269 4.2139573 -3.6044347
@@ -29008,7 +29196,11 @@ kids 0
 OBJECT poly
 name "R-Wing-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 35
 7.4823036 3.1552572 -0.7482845
@@ -29295,7 +29487,11 @@ kids 0
 OBJECT poly
 name "R-Wing-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 68
 7.1458268 3.1376374 -0.8973324
@@ -29744,7 +29940,11 @@ kids 0
 OBJECT poly
 name "R-Wing-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 35
 7.4585838 3.3137038 -0.7067403
@@ -35510,7 +35710,11 @@ kids 0
 OBJECT poly
 name "REngineBaffleInner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 5
 -0.6394211 0.5271695 -0.8381256
@@ -35536,7 +35740,11 @@ kids 0
 OBJECT poly
 name "REngineInletCone"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 35
 0.0010854 1.4804405 -1.0535382
@@ -35787,7 +35995,11 @@ kids 0
 OBJECT poly
 name "REngineIntakeBLiner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 1.2716951 0.6638367 -0.7758980
@@ -35811,7 +36023,11 @@ kids 0
 OBJECT poly
 name "REngineIntakeLiner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 30
 1.1135296 2.0540154 -0.4220849
@@ -35947,7 +36163,11 @@ kids 0
 OBJECT poly
 name "REngineIntakeLinerC"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 16
 1.1111547 2.0645890 -0.3649175
@@ -36055,7 +36275,11 @@ kids 0
 OBJECT poly
 name "REngineVentL"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 5
 -0.0668060 1.3647566 -1.2633393
@@ -36086,7 +36310,11 @@ kids 0
 OBJECT poly
 name "REngineVentLI"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 10
 -0.0279314 1.1025507 -1.3104428
@@ -36157,7 +36385,11 @@ kids 0
 OBJECT poly
 name "REngineVentU"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 7
 -0.1214335 1.7234514 -1.1463485
@@ -36197,7 +36429,11 @@ kids 0
 OBJECT poly
 name "REngineVentUI"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 14
 -0.0971062 1.5719081 -1.1788057
@@ -37793,7 +38029,11 @@ kids 0
 OBJECT poly
 name "RMG-Door-Inner"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 20
 1.4896754 0.3436642 -0.9152341
@@ -37905,7 +38145,11 @@ kids 0
 OBJECT poly
 name "RMG-Door-Outer"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 18
 3.0844421 0.8866570 -1.3718909
@@ -38016,7 +38260,11 @@ kids 0
 OBJECT poly
 name "RMG-Door-Rear"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 24
 4.1930962 0.6509462 -0.9731452
@@ -38146,7 +38394,11 @@ kids 0
 OBJECT poly
 name "RMG-Doors-Closed"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 34
 3.0844421 0.8866570 -1.3718909
@@ -38738,7 +38990,11 @@ kids 0
 OBJECT poly
 name "RTPFlap-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 13.6397247 3.2098088 -2.0395961
@@ -38798,7 +39054,11 @@ kids 0
 OBJECT poly
 name "RTPFlap-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 9
 13.0200577 2.9728551 -1.4249289
@@ -38860,7 +39120,11 @@ kids 0
 OBJECT poly
 name "RTPFlap-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 4
 13.6397247 3.2098088 -2.0395961
@@ -38884,7 +39148,11 @@ kids 0
 OBJECT poly
 name "RTPlane-B"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 25
 13.1722078 3.2965696 -2.6187739
@@ -39131,7 +39399,11 @@ kids 0
 OBJECT poly
 name "RTPlane-F"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 10
 12.5691957 2.8580317 -1.2105464
@@ -39195,7 +39467,11 @@ kids 0
 OBJECT poly
 name "RTPlane-T"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 25
 13.1689358 3.3175817 -2.6126442
@@ -39369,7 +39645,11 @@ kids 0
 OBJECT poly
 name "TailFin-L"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 14.0191011 6.9908953 2.0393474
@@ -39406,7 +39686,11 @@ kids 0
 OBJECT poly
 name "TailFin-R"
 loc 0.0000000 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "fguk.png"
+=======
+texture "gate-guardian2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 8
 12.7624454 3.1752548 0.9262687

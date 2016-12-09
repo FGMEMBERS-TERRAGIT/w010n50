@@ -24,3 +24,4 @@ OBJECT_STATIC Belfastroads1806.xml -5.69653 54.65862 45.28 0
 OBJECT_STATIC Belfastroads1905.xml -5.66558 54.64066 44.75 0
 OBJECT_STATIC Belfastroads1906.xml -5.66558 54.65862 22.25 0
 # END osm2roads_Belfast
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.5308875 54.6449783 -2.41 0

@@ -185,4 +185,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2551408 53.7542464 35.64 343.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2504597 53.753442 25.77 343.75
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -1.499309 53.774833 23.41 321.34
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -1.496324 53.776272 29.18 309.21
+OBJECT_SHARED Models/Power/windturbine_e82_85m.xml -1.3364465 53.8105604 71.97 0
+OBJECT_SHARED Models/Power/windturbine_e82_85m.xml -1.3316272 53.8076485 68.85 0
 OBJECT_STATIC TempleNewsam.ac -1.459665 53.784332 78.87 75

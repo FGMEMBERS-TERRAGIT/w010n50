@@ -13,3 +13,4 @@ OBJECT_SHARED Models/Industrial/bond-warehouse.ac -3.0951773 58.4304321 27.25 0
 OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -3.083 58.43946 0 85
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.07795 58.44028 -0.01 0
 OBJECT_SHARED Models/Communications/VOR-DME_3.ac -3.1003722 58.4588166 35.08 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -3.0788798 58.4390491 -2.4 0
