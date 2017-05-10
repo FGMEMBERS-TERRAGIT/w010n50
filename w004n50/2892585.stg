@@ -90,3 +90,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.5080737 50.657295 52.99 295.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.5053075 50.6989197 2.45 325.73
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.5041255 50.6540301 17.86 305.09
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.5018915 50.6977237 4.83 331.57
+OBJECT_STATIC HaldonBelvedere.ac -3.59247 50.663985 246.86 22

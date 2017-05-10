@@ -7,3 +7,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.552473 50.958574 142.89 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.550544 50.906228 134.82 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.509397 50.97117 146.07 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.6725 50.8947222 65.39 180
+OBJECT_STATIC MontacuteHouse.ac -2.71402 50.951743 50.56 153

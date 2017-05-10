@@ -17,4 +17,6 @@ OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.281666667 57.636666667 16.4 0
+OBJECT_SHARED Models/Boundaries/Fence_50m.ac -3.32051 57.702246 11.04 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.27525 57.72006 -0.01 0
+OBJECT_SHARED Models/Military/KOFF_Hanger306307.ac -3.32051 57.702246 11.04 0
