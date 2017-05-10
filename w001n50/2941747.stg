@@ -22,7 +22,7 @@ OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml -0.24923126 50.8296188 2.38 
 OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -0.10338 50.80532 -0.59 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -0.24329 50.82984 0.3 0
 OBJECT_SHARED Models/Sport/Helta_Skelta.ac -0.13759995 50.8156169 13.35 92
-OBJECT_STATIC shorehamps.xml -0.2322222 50.83 1.9 100
+OBJECT_STATIC shorehamps.xml -0.2322222 50.83 -8.1 100
 OBJECT_STATIC Brighton_Pier.xml -0.13649 50.81907 4.71 264
 OBJECT_STATIC BrightonMarina.ac -0.10086653 50.81060913 1.55 66.6
 OBJECT_STATIC ShorehamLighthouse.xml -0.24822 50.83086 3.75 88

@@ -26,10 +26,10 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -0.908118 53.320498 35.37 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -0.907381 53.272327 68.35 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -0.89362 53.361597 67.07 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -0.881567 53.327192 87.99 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -0.947222 53.281389 26 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.8112631 53.3611727 -272.67 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.8108333 53.3625 -276.34 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -0.8097456 53.361697 -276.16 180
+OBJECT_SHARED Models/Communications/vordme_4.xml -0.9471632 53.2814612 26.01 0
 OBJECT_STATIC CottamChimney.xml -0.7798185 53.3044862 18.4 180
 # dsf2stg
 # do not edit below this line

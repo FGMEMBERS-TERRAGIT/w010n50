@@ -10,7 +10,6 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -1.044468 50.829698 1.2 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.040931 50.811701 0 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.036425 50.853436 79.77 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.029513 50.794214 -0.02 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -1.1086111 50.7955556 -333.88 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.249787 50.8507717 32.63 260.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2482139 50.8749442 34.71 45.82
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.1977411 50.832835 10 90.98
@@ -308,3 +307,4 @@ OBJECT_SHARED Models/lib/cars6.ac -1.20642 50.80989 6.61 106.01
 OBJECT_SHARED Models/lib/cars6.ac -1.20775 50.80969 6.35 290.11
 OBJECT_SHARED Models/lib/cars4.ac -1.19896 50.81092 6.37 204.34
 # END dsf2stg
+OBJECT_STATIC Spinnaker.ac -1.108452 50.795569 0.96 250

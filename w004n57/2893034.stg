@@ -17,6 +17,7 @@ OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.281666667 57.636666667 16.4 0
+OBJECT_SHARED Models/Boundaries/Fence_50m.ac -3.32051 57.702246 11.04 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.27525 57.72006 -0.01 0
 
 OBJECT_SHARED Models/Military/ctype.xml -3.31932854 57.71304140 8.1644 315.8 0.0 -0.0
@@ -51,3 +52,4 @@ OBJECT_SHARED Models/Airport/BAK12.xml -3.32692571 57.71281036 8.7180 317.2 0.0 
 OBJECT_SHARED Models/Airport/EIDW_Radar2.xml -3.32217401 57.70741336 4.2380 312.0 0.0 -0.0
 OBJECT_SHARED Models/Military/LightingGantry.xml -3.32210533 57.71346721 8.0231 144.0 0.0 -0.0
 OBJECT_SHARED Models/Military/LightingGantry.xml -3.32110162 57.71398798 7.7753 140.0 0.0 -0.0
+OBJECT_SHARED Models/Military/KOFF_Hanger306307.ac -3.32051 57.702246 11.04 0

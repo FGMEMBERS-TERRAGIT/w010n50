@@ -669,8 +669,6 @@ OBJECT_SHARED Models/Boundaries/Hedge_10m.ac -0.3314434 53.5868732 20.44 160
 OBJECT_SHARED Models/Boundaries/Hedge_10m.ac -0.3313919 53.5869571 20.74 160
 OBJECT_SHARED Models/Boundaries/Hedge-50m.ac -0.353337 53.58463 24.6 170
 OBJECT_SHARED Models/Communications/mil-antena-45m.xml -0.3552787 53.58338 25.68 0
-OBJECT_SHARED Models/Communications/mil-antena-61m.xml -0.3042481 53.4929002 142.37 90
-OBJECT_SHARED Models/Communications/mil-antena-61m.xml -0.3042111 53.4950751 140.18 90
 OBJECT_SHARED Models/Military/radar-mil-1.xml -0.34125 53.58039 22.21 184
 OBJECT_SHARED Models/Military/old-shelter-sand.ac -0.34127 53.58052 22.11 184
 OBJECT_SHARED Models/Airport/thangar2.ac -0.3744361 53.5526871 73.29 133
@@ -761,9 +759,6 @@ OBJECT_SHARED Models/Communications/Generic_celular_monopole_20m.ac -0.3534763 5
 OBJECT_SHARED Models/Communications/Generic_celular_monopole_20m.ac -0.351426 53.5838055 23.19 278
 OBJECT_SHARED Models/Airport/appliance_room.xml -0.353478 53.57401 29.09 164
 OBJECT_SHARED Models/Communications/dme_antenna_sa.xml -0.353478 53.574025 29.07 164
-OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -0.3030631 53.4916071 122.55 90
-OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -0.3019361 53.4934711 123.98 90
-OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -0.3006381 53.4934551 124.4 90
 OBJECT_SHARED Models/Communications/mil-antena-118m.xml -0.4377501 53.6101027 45.73 299
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -0.3715833 53.5526916 65.48 30
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -0.3558491 53.5811721 24.71 90

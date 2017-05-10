@@ -16,3 +16,5 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -1.9100149 53.2743741 371.8
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.7764112 53.2984709 350.25 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -1.8547222 53.2636111 -111.66 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -1.7552778 53.3383333 -171.9 180
+OBJECT_STATIC BuxtonDome.ac -1.916666 53.260077 311.75 310
+OBJECT_STATIC StJohnTheBaptistBuxton.ac -1.917264 53.25893 305.05 110

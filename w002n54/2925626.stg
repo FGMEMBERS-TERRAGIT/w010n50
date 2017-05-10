@@ -136,7 +136,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.44922112 54.9762051 12.92 122
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.4485245 54.9727075 21.3 283
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.4478593 54.9684829 23.37 260
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.4478379 54.9708601 26.16 276
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2845371 54.6292055 20.12 174
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -1.35031 54.91991 -0.57 0
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -1.3666404 54.9173261 0.19 218.57
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -1.365 54.9173833 0 143

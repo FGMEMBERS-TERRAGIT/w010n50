@@ -67,3 +67,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2594842 53.4633558 133.64 47.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2568858 53.4650079 129.19 48.51
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2542165 53.4669107 126.01 49.81
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.2514869 53.4688126 123.62 48.4
+OBJECT_SHARED Models/Communications/mil-antena-61m.xml -0.3042481 53.4929002 142.37 90
+OBJECT_SHARED Models/Communications/mil-antena-61m.xml -0.3042111 53.4950751 140.18 90
+OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -0.3030631 53.4916071 122.55 90
+OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -0.3019361 53.4934711 123.98 90
+OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -0.3006381 53.4934551 124.4 90
