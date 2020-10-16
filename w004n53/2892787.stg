@@ -90,6 +90,7 @@ OBJECT_SHARED Models/Airport/cahute.ac -3.038326 53.774345 10.71 25
 OBJECT_SHARED Models/Airport/appliance_room.xml -3.034883 53.7687864 9.71 188
 OBJECT_SHARED Models/Airport/appliance_room.xml -3.0284533 53.7702583 10 26
 OBJECT_SHARED Models/Communications/dme_antenna_sa.xml -3.0284333 53.7702583 10 132
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -3.056157 53.813287 7.22 180
 OBJECT_STATIC tour-eiffel-ba.xml -3.0552158 53.81598 -67.64 180
 OBJECT_STATIC RNLI_Blackpool.ac -3.05624081 53.8135066 6.98 7
 OBJECT_STATIC Blackpool_Big_Wheel.xml -3.05728042 53.8109488 3.1 88

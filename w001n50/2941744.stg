@@ -20,6 +20,7 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -0.9358333 50.7777833 0 
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -0.9650655 50.8339419 -0.13 334.14
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -0.9647756 50.8342377 -0.07 119.17
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -0.93059 50.78263 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -0.93666 50.78172 1.77 340
 OBJECT_STATIC Goodwood_Terrace.ac -0.75303064 50.8590258 27.56 276
 OBJECT_STATIC Goodwood_Parking.ac -0.75408037 50.8574588 27.36 92
 OBJECT_STATIC Goodwood4_Hangars.ac -0.75528867 50.8600429 28.76 4
@@ -72,3 +73,4 @@ OBJECT_SHARED Models/lib/canopy18x8.ac -0.75384 50.85900 27.82 97.35
 OBJECT_SHARED Models/lib/canopy18x8.ac -0.75356 50.85918 27.83 187.53
 OBJECT_SHARED Models/lib/canopy18x8.ac -0.75390 50.85931 27.98 276.77
 # END dsf2stg
+OBJECT_STATIC ChichesterCathedral.ac -0.780827 50.836255 20.3 77

@@ -2,5 +2,6 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -1.983845 50.598392 121.72 180
 OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -1.94757 50.6109 -0.04 260
 OBJECT_SHARED Models/Maritime/Civilian/Tyne_Lifeboat.xml -1.9523 50.60882 0 285
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -1.94671 50.59845 -0.16 0
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -1.951768 50.608844 0 0
 OBJECT_STATIC Anvil_Point_Lighthouse.xml -1.95868957 50.59120707 -0.01 120
 OBJECT_STATIC RNLI_Swanage.ac -1.94674013 50.6071642 0 72

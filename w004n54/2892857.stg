@@ -4,3 +4,12 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -3.653867 54.908338 227.45 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.629244 54.940549 562.88 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.606672 54.999294 89.75 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.540711 54.996795 96.27 180
+OBJECT_SHARED Models/Transport/van_red.ac -3.739906 54.94318 190.66 50
+OBJECT_SHARED Models/Aircraft/ask21-blue.xml -3.737621 54.943054 194.77 20
+OBJECT_SHARED Models/Aircraft/ask21-red.xml -3.739659 54.943584 192.67 230
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac -3.740281 54.943269 187.51 130
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac -3.740244 54.943235 187.67 130
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac -3.740335 54.943371 187.19 50
+OBJECT_SHARED Models/Airport/Club_House.ac -3.74011 54.943352 188.58 230
+OBJECT_SHARED Models/Airport/Vehicle/supacat_winch.xml -3.743522 54.951197 191.2 20
+OBJECT_SHARED Models/Transport/pickupwhite1.ac -3.739852 54.943214 191.14 50

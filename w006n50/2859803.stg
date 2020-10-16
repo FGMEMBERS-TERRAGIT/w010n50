@@ -187,3 +187,4 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml -5.00450 50.44683 95.86 103.61
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -5.00362 50.44653 96.37 102.13
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -5.00282 50.44624 96.85 102.24
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -5.087367 50.416572 17.05 100

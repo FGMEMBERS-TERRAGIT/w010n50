@@ -82,6 +82,32 @@ OBJECT_SHARED Models/Misc/VicMar_1.xml -0.29297951 50.8360789 64.31 0
 OBJECT_SHARED Models/Misc/White_Cone.ac -0.28988608 50.8337694 0.37 0
 OBJECT_SHARED Models/Misc/Yellow_Cone.ac -0.28989938 50.8337657 0.37 0
 OBJECT_SHARED Models/Fauna/Kestrel.xml -0.29729381 50.8381686 5.63 0
+OBJECT_SHARED Models/Misc/Steiger_Wheel.xml -0.366894 50.810989 6.72 175
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat1.ac -0.28375212 50.8291691 2.11 212
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat1.ac -0.2818695 50.8288487 1.78 180
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat1.ac -0.2817435 50.8288533 1.74 180
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat1.ac -0.2816084 50.8288792 1.69 176
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat2.ac -0.28345517 50.8292486 2.25 76
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat2.ac -0.2810062 50.8291071 1.66 84
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat3.ac -0.28295694 50.8291308 2.2 260
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat4.ac -0.2821527 50.8290485 5.88 0
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat4.ac -0.2804491 50.8293737 1.44 0
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat5.ac -0.28246705 50.829013 3.99 0
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat5.ac -0.2793201 50.8290451 0.01 168
+OBJECT_SHARED Models/Maritime/Civilian/Solar_Barge.ac -0.28243591 50.8290278 3.97 180
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat6.ac -0.27871165 50.8289366 -0.01 180
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat7.ac -0.27986573 50.8289297 0.78 84
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat7.ac -0.2796389 50.8289837 0.46 76
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat8.ac -0.2833736 50.8291389 2.27 184
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat8.ac -0.28111338 50.8290945 1.59 176
+OBJECT_SHARED Models/Maritime/Civilian/HouseBoat9.ac -0.28004871 50.8290185 1.01 172
+OBJECT_SHARED Models/Misc/Moby_Dig.ac -0.333792 50.812606 -0.17 0
+OBJECT_SHARED Models/Airport/Vehicle/Volocopter.ac -0.29239533 50.8336842 0.22 0
+OBJECT_SHARED Models/Residential/Static_Caravan_1.ac -0.307537 50.823895 0.92 350
+OBJECT_SHARED Models/Residential/Static_Caravan_2.ac -0.308561 50.824305 0.26 80
+OBJECT_SHARED Models/Residential/Static_Caravan_3.ac -0.309141 50.824414 0.47 350
+OBJECT_SHARED Models/Residential/Static_Caravan_4.ac -0.310214 50.823485 1.14 80
+OBJECT_SHARED Models/Misc/Urn.xml -0.29044998 50.833695 0.74 0
 OBJECT_STATIC egkaterminal.xml -0.290397 50.833633 0.39 298
 OBJECT_STATIC egkafs.ac -0.29085693 50.83342898 0.4 300
 OBJECT_STATIC egkafs.ac -0.2908569 50.833429 0.4 304
@@ -212,3 +238,4 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml -0.29018 50.84015 -0.46 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -0.29013 50.83985 -0.67 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml -0.29003 50.83979 -0.69 0
 # END dsf2stg
+OBJECT_STATIC LancingCollegeChapel.ac -0.302388 50.846676 31.55 88.5

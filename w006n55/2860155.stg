@@ -16,3 +16,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -5.1816055 55.9280232
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -5.1744043 55.9300694 -0.01 51.69
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -5.1731945 55.9294064 -0.01 147.11
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -5.0780784 55.8838295 -0.03 337.79
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -5.232563 55.906813 6.5 110

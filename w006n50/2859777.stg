@@ -8,6 +8,7 @@ OBJECT_SHARED Models/Misc/generic_lighthouse.ac -5.5766666 50.052 -35 180
 OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml -5.70354 50.07918 -0.01 310
 OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -5.54799 50.10393 0 200
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -5.70374 50.07916 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -5.548688 50.103923 3.25 135
 OBJECT_STATIC LongshipsLighthouse.xml -5.74566033 50.06564135 1.19 280
 # dsf2stg
 # do not edit below this line

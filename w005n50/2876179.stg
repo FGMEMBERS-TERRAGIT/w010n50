@@ -10,6 +10,7 @@ OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -4.15172 50.36292 0.9
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.17308 50.36218 -0.01 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.12785 50.36234 0 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.06863 50.31112 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -4.151292 50.362885 1 260
 OBJECT_STATIC T45_D34_underway.xml -4.213 50.3021 -0.59 22
 OBJECT_STATIC PlymouthBreakwater.xml -4.147803 50.333972 -0.31 85
 OBJECT_STATIC York_Wheel.xml -4.142221 50.364798 19.43 90

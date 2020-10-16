@@ -14,3 +14,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.034035 53.118085 193.98 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.002597 53.101838 262.38 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.1445614 53.0028219 152.53 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.0014937 53.1018013 214.62 180
+OBJECT_STATIC CheddletonWaterTower.ac -2.040712 53.07928 167.42 145

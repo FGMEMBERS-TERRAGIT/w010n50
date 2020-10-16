@@ -55,3 +55,4 @@ OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -7.37237 57.47453 4
 OBJECT_SHARED Models/lib/schranke.ac -7.37127 57.47398 4.86 73.594
 OBJECT_SHARED Models/lib/hangarUL10x30.ac -7.36703 57.47450 4.95 117.512
 # END dsf2stg
+OBJECT_SHARED Models/Industrial/watertower.ac -7.3736263 57.472503 8.91 0

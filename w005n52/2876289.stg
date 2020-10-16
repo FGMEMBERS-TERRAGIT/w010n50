@@ -55,3 +55,4 @@ OBJECT_SHARED Models/lib/container6-HD.ac -4.56193 52.11522 127.03 330.1
 OBJECT_SHARED Models/lib/container6-HD.ac -4.56211 52.11525 126.94 330.1
 OBJECT_SHARED Models/lib/container6-HD.ac -4.56221 52.11512 126.97 330.1
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -4.699665 52.10465 5.93 270

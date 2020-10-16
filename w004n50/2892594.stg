@@ -45,3 +45,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.4047659 50.7684086 28.06 23.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.4033926 50.7682729 28.47 11.04
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.4010322 50.7691686 30.14 15.77
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -3.3966978 50.7691957 36.88 0.57
+OBJECT_STATIC StMarysOtteryStMary.ac -3.279297 50.752793 63.2 93

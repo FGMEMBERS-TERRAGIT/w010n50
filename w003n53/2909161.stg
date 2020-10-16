@@ -6,3 +6,5 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.51587 53.62983 451.93 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.5604351 53.6956028 127.53 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.515 53.6255556 250.55 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -2.5425 53.7191667 -296.02 180
+OBJECT_STATIC StGeorgesChorley.ac -2.629166 53.652128 88.95 180
+OBJECT_STATIC ChorleyMagistratesCourt.ac -2.634016 53.654141 91.44 95

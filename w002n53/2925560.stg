@@ -19,3 +19,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -1.8842161 53.9386616 91.82
 OBJECT_SHARED Models/Transport/SmallStation2Platforms.ac -1.944687 53.90003 93.26 60
 OBJECT_SHARED Models/Transport/SmallStation2Platforms.ac -1.797477 53.925719 95.85 85
 OBJECT_SHARED Models/Transport/SmallStation2Platforms.ac -1.753183 53.907928 101.74 20
+OBJECT_STATIC StJohnsBenRhydding.ac -1.79996 53.924416 108.62 4

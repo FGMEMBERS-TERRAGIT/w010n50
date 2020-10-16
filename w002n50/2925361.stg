@@ -5,3 +5,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -1.65574 50.822158 61.41 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.604956 50.79724 55.6 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.562287 50.870485 41.4 180
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -1.52502 50.75185 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -1.529092 50.753896 0.56 90

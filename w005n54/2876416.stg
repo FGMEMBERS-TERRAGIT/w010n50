@@ -4,5 +4,6 @@ OBJECT_SHARED Models/Communications/mil-antena-61m.xml -4.7680872 54.072889 162.
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml -4.7669472 54.072689 158.5 0
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml -4.762267 54.066414 158.04 0
 OBJECT_SHARED Models/Communications/VOR-DME_3.ac -4.763475 54.066667 159.95 180
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -4.758142 54.085044 17.8 95
 OBJECT_STATIC Chicken_Rock_Lighthouse.xml -4.83666749 54.0383384 -1.2 0
 OBJECT_STATIC Calf_of_Man_Lighthouse.xml -4.82575697 54.05385422 93.4 16

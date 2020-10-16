@@ -1,3 +1,4 @@
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -2.435 56.7016666 -11 180
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -2.43894 56.70467 0 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.44406 56.70436 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -2.475132 56.706623 2.77 190

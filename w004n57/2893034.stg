@@ -1,3 +1,6 @@
+OBJECT_SHARED Models/Military/ctype.ac -3.3200993 57.7116741 8.75 0.5
+OBJECT_SHARED Models/Military/ctype.ac -3.3193609 57.7103636 9.25 40
+OBJECT_SHARED Models/Military/ctype.ac -3.3193285 57.7130414 8.18 315.8
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.489234 57.658226 24.78 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.436095 57.687695 78.79 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.433715 57.641862 77.73 180
@@ -5,11 +8,12 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -3.391581 57.712286 67.39 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.367012 57.652249 117.54 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.300828 57.67165 31.52 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.288392 57.711923 12.38 180
-OBJECT_SHARED Models/Airport/ils.xml -3.327967 57.713814 8.57 135.84
 OBJECT_SHARED Models/Communications/radio-medium.xml -3.4697222 57.7005556 -312.74 180
 OBJECT_SHARED Models/Airport/marker.ac -3.404639 57.678833 6.72 180
 OBJECT_SHARED Models/Airport/marker.ac -3.312539 57.720981 3.29 180
-OBJECT_SHARED Models/Misc/generic_lighthouse.ac -3.3366666 57.725 -10.52 180
+OBJECT_SHARED Models/Misc/generic_lighthouse.ac -3.338642 57.724044 3.5 180
+OBJECT_SHARED Models/Military/RAFTower.xml -3.3222837 57.7117149 8.73 273.3
+OBJECT_SHARED Models/Communications/base_clape_01.xml -3.3436613 57.7147346 13.77 20.3
 OBJECT_SHARED Models/Airport/localizer.xml -3.358539 57.6951 5.61 313.63
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.483333333 57.633333333 43.97 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.365 57.626666667 27.2 0
@@ -17,7 +21,16 @@ OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.3 57.65 14.68 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -3.281666667 57.636666667 16.4 0
+OBJECT_SHARED Models/Military/RAFETypeShed.ac -3.3363309 57.7028259 11.18 236.2
+OBJECT_SHARED Models/Military/RAFETypeShed.ac -3.3324591 57.7150474 9.48 217.2
 OBJECT_SHARED Models/Boundaries/Fence_50m.ac -3.32051 57.702246 11.04 0
+OBJECT_SHARED Models/Military/LightingGantry.xml -3.3221053 57.7134672 8.02 144
+OBJECT_SHARED Models/Military/LightingGantry.xml -3.3211016 57.713988 7.77 140
+OBJECT_SHARED Models/Airport/BAK12.xml -3.3482589 57.7008573 10.72 312.5
+OBJECT_SHARED Models/Airport/BAK12.xml -3.3386501 57.7069444 11.7 83.4
+OBJECT_SHARED Models/Airport/BAK12.xml -3.3269257 57.7128104 8.92 317.2
+OBJECT_SHARED Models/Airport/BAK12.xml -3.3207754 57.7058545 10.9 81.3
+OBJECT_SHARED Models/Airport/EIDW_Radar2.xml -3.322174 57.7074134 10.25 312
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.27525 57.72006 -0.01 0
 
 OBJECT_SHARED Models/Military/ctype.xml -3.31932854 57.71304140 8.1644 315.8 0.0 -0.0
@@ -53,3 +66,4 @@ OBJECT_SHARED Models/Airport/EIDW_Radar2.xml -3.32217401 57.70741336 4.2380 312.
 OBJECT_SHARED Models/Military/LightingGantry.xml -3.32210533 57.71346721 8.0231 144.0 0.0 -0.0
 OBJECT_SHARED Models/Military/LightingGantry.xml -3.32110162 57.71398798 7.7753 140.0 0.0 -0.0
 OBJECT_SHARED Models/Military/KOFF_Hanger306307.ac -3.32051 57.702246 11.04 0
+OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml -3.327967 57.713814 8.57 135.84

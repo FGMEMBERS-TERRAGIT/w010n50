@@ -127,6 +127,7 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -1.20126 50.76545 -1 1
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -1.09176 50.75973 -3.24 166.43
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -1.00166 50.75166 -0.08 22.21
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -1.227792 50.7871316 -0.79 318.71
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -1.03018 50.79642 -0.02 45
 OBJECT_STATIC Southsea_Castle.ac -1.08746584 50.7782485 0.4 0
 OBJECT_STATIC T45_D36_moored.xml -1.112125 50.806337 0 85
 OBJECT_STATIC Portchester_Castle.ac -1.11544851 50.8365307 2.29 80
@@ -308,3 +309,4 @@ OBJECT_SHARED Models/lib/cars6.ac -1.20775 50.80969 6.35 290.11
 OBJECT_SHARED Models/lib/cars4.ac -1.19896 50.81092 6.37 204.34
 # END dsf2stg
 OBJECT_STATIC Spinnaker.ac -1.108452 50.795569 0.96 250
+OBJECT_STATIC PortsmouthCathedral.ac -1.104287 50.790471 5.3 197

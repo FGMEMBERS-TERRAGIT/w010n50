@@ -13,3 +13,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -2.2866667 53.6011111 -229.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -2.3248454 53.6209767 135.61 28.04
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -2.3199617 53.6225192 133.6 27.57
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -2.3152667 53.6239446 119.61 27.47
+OBJECT_STATIC BuryTransportMuseum.ac -2.300659 53.594569 91.4 165

@@ -172,6 +172,7 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -1.9518701 50.6891203 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -1.9566801 50.6859019 -0.01 115.97
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -1.9561997 50.6994914 -0.03 343.95
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -1.971831 50.7048718 -0.05 328.05
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -1.988515 50.717208 -0.6 330
 OBJECT_STATIC Bournemouth_Pier.ac -1.87566276 50.7161484 7.75 280
 OBJECT_STATIC BarclaysHsePoole.ac -1.980672 50.720158 13.94 140
 OBJECT_STATIC HomelifeHseBnmth.ac -1.865488 50.725551 38.27 150

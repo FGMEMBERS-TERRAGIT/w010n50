@@ -7,4 +7,5 @@ OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -5.47121 50.21181 -0.
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -5.47434 50.21263 -0.01 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -5.4378 50.2033167 -0.08 0.91
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -5.4361167 50.2031333 -0.06 163.46
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -5.475435 50.217559 0 0
 OBJECT_STATIC GodrevyLighthouse.xml -5.3983333 50.2416666 -0.16 216

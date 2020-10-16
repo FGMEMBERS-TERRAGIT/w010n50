@@ -4,3 +4,5 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -3.181164 56.09215 72.92 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -3.2333333 56.0719444 174.12 180
 OBJECT_SHARED Models/Communications/radio-tall.xml -3.2322326 56.0715244 -290.58 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -3.135 56.0333333 -1 180
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -3.173815 56.068534 10.76 100
+OBJECT_SHARED Models/Agriculture/3silo_8m.ac -3.149852 56.116862 9.49 20

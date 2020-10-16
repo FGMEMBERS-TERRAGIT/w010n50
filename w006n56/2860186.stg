@@ -19,8 +19,21 @@ OBJECT_SHARED Models/Power/windturbine.xml -5.2707306 56.3813696 387.39 180
 OBJECT_SHARED Models/Power/windturbine.xml -5.2687288 56.3807032 359.88 180
 OBJECT_SHARED Models/Power/windturbine.xml -5.2686728 56.3787267 365.69 180
 OBJECT_SHARED Models/Communications/radio-tall.xml -5.4848356 56.4034051 -366.59 180
-OBJECT_SHARED Models/Industrial/scotch-distillery.ac -5.4749221 56.4088695 5.02 0
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -5.472337 56.414827 11.66 100
+OBJECT_SHARED Models/Industrial/Industrial10x20.ac -5.3977453 56.4654571 6.96 0
+OBJECT_SHARED Models/Industrial/Industrial10x20.ac -5.3977439 56.4656368 6.89 0
+OBJECT_SHARED Models/Airport/helipad_circle.xml -5.404469 56.459817 1.44 60
+OBJECT_SHARED Models/Airport/helipad_circle.xml -5.404029 56.460321 1.71 60
+OBJECT_SHARED Models/Airport/helipad_circle.xml -5.398455 56.464141 6.66 90
+OBJECT_SHARED Models/Airport/helipad_circle.xml -5.398386 56.464568 6.59 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -5.3977889 56.4653684 6.95 348
 OBJECT_SHARED Models/Maritime/Civilian/Trent_Lifeboat.xml -5.48006 56.41117 3.97 15
+OBJECT_SHARED Models/Airport/bud_meteo.xml -5.3978196 56.4661687 6.59 356
+OBJECT_SHARED Models/Airport/bud_meteo.xml -5.3977516 56.4665664 6.51 356
+OBJECT_SHARED Models/Industrial/Workshop_SideDoor_20x18m.ac -5.3979783 56.4703437 8.97 80
+OBJECT_SHARED Models/Airport/30mx34mHangar.ac -5.3981119 56.4610423 7.31 264
+OBJECT_SHARED Models/Airport/Vehicle/medfueltruck-bp.ac -5.3981034 56.4701472 8.58 348
+OBJECT_SHARED Models/Airport/Vehicle/medfueltruck-bp.ac -5.3981027 56.470183 8.61 348
 OBJECT_STATIC McCaigsTower.ac -5.469229 56.415674 52.63 220
 # dsf2stg
 # do not edit below this line
@@ -53,3 +66,4 @@ OBJECT_SHARED Models/lib/office4x14.ac -5.39729 56.46656 6.97 180
 OBJECT_SHARED Models/lib/office3x10.ac -5.39836 56.46150 7.12 266.52
 OBJECT_SHARED Models/lib/NoParkStripes.xml -5.39845 56.46530 6.24 83.07
 # END dsf2stg
+OBJECT_STATIC connel_bridge.ac -5.39147 56.45615 15.66 348

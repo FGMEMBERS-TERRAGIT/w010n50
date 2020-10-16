@@ -5,3 +5,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -4.0205256 52.4803836 42 18
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.011323 52.4400744 86.49 180
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -4.05559 52.4812 -0.01 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.09438 52.40617 -0.11 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -4.089044 52.408787 1.7 190

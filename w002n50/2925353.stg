@@ -20,4 +20,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -1.6480111 50.6372759 -4.2
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -1.5245947 50.7091448 -0.04 242.96
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -1.5564968 50.69984 -0.14 228.49
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -1.6138066 50.6606286 -1.54 341.14
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -1.742186 50.724191 0 170
 OBJECT_STATIC Needles_Lighthouse.xml -1.59030635 50.66167476 1.73 0

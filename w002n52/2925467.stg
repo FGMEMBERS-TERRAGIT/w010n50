@@ -58,3 +58,11 @@ OBJECT_SHARED Models/Aircraft/B1900_services.xml -1.10684 52.49567 141.64 90
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -1.10648 52.49536 141.85 90
 OBJECT_SHARED Models/Aircraft/B1900_services.xml -1.10592 52.49520 142.03 90
 # END dsf2stg
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.437514 54.694583 126.39 120
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.132965 52.395427 120.37 150
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.129274 52.393882 118.59 140
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.120992 52.388906 106.73 140
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.117258 52.386654 108.21 140
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.108922 52.381625 118.08 130
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.106594 52.378219 116.68 120
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.104587 52.37558 114.22 120
