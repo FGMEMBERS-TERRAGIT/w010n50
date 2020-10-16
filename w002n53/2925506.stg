@@ -14,3 +14,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -1.264563 53.063541 177.73 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.4976558 53.0117381 124.09 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.4762325 53.0574961 89.45 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.4077778 53.0458333 154.36 180
+OBJECT_STATIC CrichStand.ac -1.487886 53.094469 262.74 115

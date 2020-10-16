@@ -14,4 +14,5 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -0.5409667 50.7980833 0 
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -0.5396167 50.7977833 -0.01 214.76
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -0.54153 50.79999 0 0
 OBJECT_SHARED Models/Maritime/Misc/Marine_Research_Vessel.ac -0.54729749 50.7991977 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -0.54091 50.801494 1.89 195
 OBJECT_STATIC Bognor_Pier.ac -0.67602527 50.7809664 -6.7 340

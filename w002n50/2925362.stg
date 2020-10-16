@@ -166,6 +166,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -1.3436878 50.7797138 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -1.3108706 50.8358336 -0.09 184.92
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -1.3109463 50.7866277 -0.41 271.31
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -1.2628122 50.7746622 -0.5 185.28
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -1.31944 50.808818 0 135
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -1.298178 50.764728 0 45
 OBJECT_STATIC FawleyJetty.ac -1.3350413 50.839555 -2.73 315.5
 OBJECT_STATIC CalshotCGTower.xml -1.307989 50.820199 0 105
 OBJECT_STATIC CalshotAC.ac -1.307462 50.818529 0 265

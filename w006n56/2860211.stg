@@ -4,6 +4,7 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -5.139854 56.825229 277.98 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.12894 56.794051 271.25 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.092532 56.86366 312.88 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.00353 56.796858 1328.87 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -5.0934796 56.8147471 250.66 180
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -5.0658231 56.8356617 19.1 108
 OBJECT_SHARED Models/Industrial/bond-warehouse.ac -5.0690657 56.8351833 13.4 288
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml -5.13825 56.82606 264.42 0
+OBJECT_SHARED Models/Communications/mil-antena-61m.xml -5.0934796 56.8147471 277.79 180

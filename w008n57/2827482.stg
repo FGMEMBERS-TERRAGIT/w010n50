@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -7.404206 57.464444 -0.01 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -7.336841 57.424135 6.93 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -7.296095 57.459065 113.98 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -7.3653 57.477936 4.86 180
+OBJECT_SHARED Models/Industrial/watertower.ac -7.3736263 57.472503 8.91 0

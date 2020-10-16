@@ -2,4 +2,5 @@ OBJECT_SHARED Models/Misc/generic_lighthouse.ac -0.9511666 50.6675 -28.56 180
 OBJECT_SHARED Models/Maritime/Civilian/Tyne_Lifeboat.xml -0.77812 50.72664 -0.16 45
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -0.77837 50.72655 -0.16 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -0.7718182 50.7062252 -1.83 17.96
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -0.777798 50.726839 -0.17 0
 OBJECT_STATIC Selsey_Lifeboat_Station.ac -0.77985457 50.7281045 -0.76 324

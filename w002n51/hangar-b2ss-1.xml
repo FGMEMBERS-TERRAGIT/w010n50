@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	<path>hangar-b2ss.ac</path>
+
+	<nasal>
+		<load>
+			if (!contains(globals, "scenery")) globals["scenery"] = {};
+			if (!contains(scenery, "FJDG")) scenery["FJDG"] = {};
+			if (!contains(scenery.FJDG, "hangar")) scenery.FJDG["hangar"] = [nil];
+			scenery.FJDG.hangar_b2ss_1 = aircraft.door.new("/scenery/FJDG/hangar-b2ss-1/door", 60);
+		</load>
+	</nasal>
+
+	<animation>
+		<type>rotate</type>
+		<object-name>front-door</object-name>
+		<property>/scenery/FJDG/hangar-b2ss-1/door/position-norm</property>
+		<factor>-35</factor>
+		<axis>
+			<x1-m>32.83</x1-m>
+			<y1-m>5.77</y1-m>
+			<z1-m>0.19</z1-m>
+			<x2-m>-32.83</x2-m>
+			<y2-m>5.77</y2-m>
+			<z2-m>0.19</z2-m>
+		</axis>
+	</animation>
+
+
+	<animation>
+		<type>pick</type>
+		<object-name>front-door</object-name>
+		<visible>true</visible>
+		<action>
+			<name>click</name>
+			<button>0</button>
+			<repeatable>false</repeatable>
+			<binding>
+				<command>nasal</command>
+				<script>scenery.FJDG.hangar_b2ss_1.toggle();</script>
+			</binding>
+		</action>
+	</animation>
+
+
+	<animation>
+		<type>material</type>
+		<object-name>inside</object-name>
+		<object-name>front-inside</object-name>
+		<object-name>front-beams-inside</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>0.9</red>
+			<green>0.9</green>
+			<blue>0.8</blue>
+		</emission>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>external-details</object-name>
+		<object-name>front-door-squirt-outside</object-name>
+		<object-name>back-door-inside</object-name>
+		<object-name>shaft-inside</object-name>
+		<object-name>vents-inside</object-name>
+		<object-name>front-beams-inside</object-name>
+		<object-name>main-beam-struct-inside</object-name>
+		<object-name>wall-back-inside-struct</object-name>
+		<object-name>top-inside-struct</object-name>
+		<min-m>0</min-m>
+		<max-m>2500</max-m>
+	</animation>
+	<animation>
+		<type>range</type>
+		<object-name>wall-back-inside</object-name>
+		<object-name>front-inside</object-name>
+		<min-m>0</min-m>
+		<max-m>5000</max-m>
+	</animation>
+	<animation>
+		<type>range</type>
+		<object-name>top-outside</object-name>
+		<object-name>top-inside</object-name>
+		<object-name>front-outside</object-name>
+		<min-m>0</min-m>
+		<max-m>15000</max-m>
+	</animation>
+
+</PropertyList>

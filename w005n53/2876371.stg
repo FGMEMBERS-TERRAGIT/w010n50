@@ -5,5 +5,6 @@ OBJECT_SHARED Models/Communications/radio-tall.xml -4.1268908 53.3066876 -351.75
 OBJECT_SHARED Models/Maritime/Civilian/Tyne_Lifeboat.xml -4.23324 53.352 0 270
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -4.23344 53.35197 -0.01 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -4.0358763 53.3124226 -0.01 162.59
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -4.09075 53.262277 0 120
 OBJECT_STATIC Trwyn_Du_Lighthouse.xml -4.03998339 53.31331762 -0.01 0
 OBJECT_STATIC Moelfre_Lifeboat_Station.ac -4.2312298 53.3545855 0 168

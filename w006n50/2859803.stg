@@ -1,2 +1,3 @@
 OBJECT_SHARED Models/Airport/tacan.xml -5.030253 50.434461 80.86 180
 OBJECT_SHARED Models/Airport/localizer.xml -5.018611 50.449514 92.61 30.58
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -5.087367 50.416572 17.05 100

@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.841212 50.726374 161.9 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.794743 50.739875 98.31 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.7749639 50.719975 12.97 180
 OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -2.927 50.71814 -0.49 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -2.938902 50.720485 3.29 340

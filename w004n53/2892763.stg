@@ -18,3 +18,5 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -3.03705 53.44335 0.23 21
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -3.0355667 53.4408833 0.09 182.42
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -3.01638 53.42892 -0.01 0
 OBJECT_SHARED Models/Communications/VOR-DME_3.ac -3.1344444 53.3919444 11.33 180
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -3.180885 53.401243 0.85 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -3.045681 53.441318 1.49 80

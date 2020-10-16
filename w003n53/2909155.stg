@@ -23,3 +23,4 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -2.191139 53.527229 -34
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -2.190474 53.528964 -343.76 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -2.189755 53.528039 -342.66 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -2.183962 53.526961 -348.79 180
+OBJECT_STATIC EllanroadEngineHouse.ac -2.10664 53.601313 155.12 35

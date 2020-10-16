@@ -45,3 +45,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.4186425 53.802647 10.81 301.0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.4172266 53.8004301 10.39 290.67
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.4170811 53.8001277 10.33 159.15
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.4164217 53.7997518 10.07 136.01
+OBJECT_STATIC SpringheadPumpingStation.ac -0.42176 53.750977 3.09 267

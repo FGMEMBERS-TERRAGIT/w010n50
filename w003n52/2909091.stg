@@ -6,3 +6,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.106375 52.619733 177.41 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.135 52.5725 -155.84 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.0697222 52.5058333 -51.08 180
 OBJECT_STATIC Dudley_Wheel.xml -2.08413 52.511291 202.28 10
+OBJECT_STATIC StPetersColCHWolverhampton.ac -2.127968 52.586896 161.43 15

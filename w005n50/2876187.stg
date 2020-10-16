@@ -21,3 +21,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -4.0663855 50.3804116 64.37
 OBJECT_SHARED Models/Communications/radio-tall.xml -4.1435738 50.3763156 -399.33 180
 OBJECT_SHARED Models/Airport/localizer.xml -4.112844 50.425694 142.96 32.6
 OBJECT_SHARED Models/Maritime/Civilian/lifeboat.xml -4.20577 50.41088 0 15
+OBJECT_STATIC RoyalAlbertBridge.ac -4.203577 50.40765 0.01 260

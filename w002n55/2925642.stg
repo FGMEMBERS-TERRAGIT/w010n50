@@ -1,3 +1,6 @@
-OBJECT_SHARED Models/Power/windturbine.xml -1.4902778 55.1366667 -0.7 180
-OBJECT_SHARED Models/Power/windturbine.xml -1.4902778 55.1386111 -0.78 180
+OBJECT_SHARED Models/Power/windturbine.xml -1.490997 55.137224 -0.67 180
+OBJECT_SHARED Models/Power/windturbine.xml -1.489699 55.134893 -0.66 180
+OBJECT_SHARED Models/Power/vestas-v80-sea.xml -1.413159 55.147905 -5.04 0
+OBJECT_SHARED Models/Power/vestas-v80-sea.xml -1.406293 55.139664 -4.97 0
+OBJECT_SHARED Models/Power/vestas-v80-sea.xml -1.400456 55.13125 -4.71 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac -1.492403 55.1693485 -0.92 256.29

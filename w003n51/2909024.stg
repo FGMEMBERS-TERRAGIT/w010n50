@@ -11,3 +11,5 @@ OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9866667 51.5472222 -78.08 18
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -2.9808333 51.5458333 -80.47 180
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -2.98497 51.53699 -0.01 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.9669621 51.5400136 5.01 0
+OBJECT_SHARED Models/Commercial/clarencetower.ac -2.9929856 51.5908866 5.83 0
+OBJECT_SHARED Models/Maritime/Misc/NewportCastle.ac -2.99489378 51.5909118 5.43 0

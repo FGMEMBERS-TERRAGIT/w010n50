@@ -16,3 +16,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -1.6395987 53.1507012 202.4
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.6319602 53.1695569 259.88 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.5885315 53.1739098 205.43 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -1.5561067 53.126146 113.63 180
+OBJECT_STATIC Chatsworth_House.xml -1.612115 53.226925 124.86 0

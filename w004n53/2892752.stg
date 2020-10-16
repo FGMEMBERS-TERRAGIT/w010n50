@@ -28,4 +28,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -3.8308333 53.2886667
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -3.83 53.2895 0 197.36
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -3.829 53.2896667 0.23 263.84
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac -3.9157667 53.291 -1.03 99.86
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -3.825366 53.328259 -0.01 0
 OBJECT_STATIC Great_Orme_Lighthouse.ac -3.86952284 53.34005832 134.47 120

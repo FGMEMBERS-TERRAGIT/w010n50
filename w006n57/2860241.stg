@@ -4,6 +4,10 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -5.564499 57.36969 381.09 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.520646 57.278835 4.14 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.511142 57.299445 390.24 180
 OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -5.672124 57.3349455 25.53 347
-OBJECT_SHARED Models/Airport/hangar2.ac -5.6723656 57.3346035 25.07 258
+OBJECT_SHARED Models/Airport/hangar2.ac -5.6723389 57.334496 24.98 258
+OBJECT_SHARED Models/Airport/helipad_circle.xml -5.672843 57.334738 24.82 90
+OBJECT_SHARED Models/Airport/helipad_circle.xml -5.672708 57.335023 25.17 90
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -5.6308833 57.3487333 -0.14 333.06
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.7425252 57.2776907 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -5.709779 57.280435 7.26 175
+OBJECT_STATIC skye_bridge.ac -5.74110808 57.2786546 0 246.8

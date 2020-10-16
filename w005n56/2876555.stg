@@ -1,2 +1,9 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.1457564 56.2315899 111.12 180
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -4.198118 56.237045 67.54 0
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -4.197909 56.237048 67.61 0
+OBJECT_SHARED Models/Industrial/WaterWorks10m.xml -4.197861 56.237191 68.02 0
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -4.199266 56.237075 67.53 0
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -4.198692 56.237409 68.26 0
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -4.198371 56.237295 68.19 0
+OBJECT_SHARED Models/Industrial/WaterWorks20m.xml -4.19807 56.237409 68.56 0
 OBJECT_SHARED Models/Industrial/scotch-distillery.ac -4.071666667 56.188333333 37.28 0

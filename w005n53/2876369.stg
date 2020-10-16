@@ -2,7 +2,6 @@ OBJECT_SHARED Models/Military/ctype.ac -4.54901089 53.2508528 5.21 183.2
 OBJECT_SHARED Models/Misc/trigpoint.ac -4.675587 53.31341 203.7 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -4.622782 53.289875 21.63 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -4.515632 53.32564 39.91 180
-OBJECT_SHARED Models/Airport/ils.xml -4.541603 53.252981 8.96 226.34
 OBJECT_SHARED Models/Airport/tacan.xml -4.544139 53.257422 9.37 180
 OBJECT_SHARED Models/Airport/marker.ac -4.650536 53.314628 21.17 180
 OBJECT_SHARED Models/Airport/marker.ac -4.557228 53.259903 4.37 180
@@ -25,6 +24,8 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -4.53384623 53.25040495 10.2
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -4.53301491 53.25061211 10.53 36
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -4.53227149 53.25080693 10.79 36
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -4.60923 53.32785 -0.35 0
+OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml -4.541603 53.252981 8.96 226.34
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -4.618067 53.276061 5.07 350
 OBJECT_STATIC South_Stack_Lighthouse.xml -4.69832729 53.30667536 0 92
 OBJECT_STATIC South_Stack_Lighthouse_accom.ac -4.69832729 53.30667536 0 92
 OBJECT_STATIC South_Stack_Lighthouse_Storage.ac -4.69832729 53.30667536 0 92

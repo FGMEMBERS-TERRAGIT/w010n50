@@ -174,3 +174,4 @@ OBJECT_SHARED Models/Industrial/HC-Tank.ac -1.2076461 54.6368693 14.02 90
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -1.1077167 54.6823333 -3.3 339.59
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -1.0863333 54.6345 -1.33 82.51
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -1.16485 54.68097 -0.58 326.61
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -1.183753 54.693591 0 100

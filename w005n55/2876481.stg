@@ -3,3 +3,6 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -4.684877 55.079142 188.87 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -4.619186 55.033228 179.29 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -4.592054 55.096534 331.42 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -4.516715 55.030601 274.37 180
+OBJECT_SHARED Models/Power/windturbine.xml -4.744034 55.122784 200.51 0
+OBJECT_SHARED Models/Power/windturbine.xml -4.740171 55.12011 195.88 0
+OBJECT_SHARED Models/Power/windturbine.xml -4.735408 55.12438 189.21 0

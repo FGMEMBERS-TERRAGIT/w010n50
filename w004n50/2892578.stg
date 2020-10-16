@@ -41,4 +41,7 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -3.4127569 50.6121254
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -3.4026663 50.6066879 -0.01 236.87
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -3.398832 50.6003524 -0.17 190.72
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac -3.3584671 50.6040286 -0.34 229.48
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -3.42473 50.616796 0.08 0
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -3.498861 50.542263 0 275
 OBJECT_STATIC Teignmouth_Pier.xml -3.49195016 50.5440116 -0.04 156
+OBJECT_STATIC StJamesTeignmouth.ac -3.498401 50.547981 17.19 86

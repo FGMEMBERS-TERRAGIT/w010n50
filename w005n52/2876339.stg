@@ -6,6 +6,7 @@ OBJECT_SHARED Models/Airport/beacon.xml -4.123581 52.814418 3.97 0
 OBJECT_SHARED Models/Airport/ils.xml -4.1304146 52.812541 6.08 185.6
 OBJECT_SHARED Models/Airport/ils.xml -4.1243538 52.7984414 7.63 8
 OBJECT_SHARED Models/Airport/tacan.xml -4.1209313 52.8108978 3.71 0
+OBJECT_SHARED Models/Military/t2.ac -4.1247778 52.8179094 3.47 0
 OBJECT_SHARED Models/Military/RAFTower.xml -4.1233043 52.8062579 5.53 24
 OBJECT_SHARED Models/Communications/base_clape_03.xml -4.1205214 52.8209116 1.99 96
 OBJECT_SHARED Models/Airport/localizer.xml -4.1310957 52.8176616 2.81 10

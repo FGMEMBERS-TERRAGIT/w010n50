@@ -1,3 +1,4 @@
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.205632 53.246855 99.12 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.14695 53.183239 121.08 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.131136 53.191242 103.95 180
+OBJECT_STATIC MansfieldMagistratesCourt.ac -1.205578 53.148729 114.9 169

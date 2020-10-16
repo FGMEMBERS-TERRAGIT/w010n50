@@ -4,4 +4,5 @@ OBJECT_SHARED Models/Airport/ils.xml -2.870564 53.746886 15.04 108.77
 OBJECT_SHARED Models/Airport/tacan.xml -2.892839 53.740347 9.58 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.881772 53.744317 13.44 180
 OBJECT_SHARED Models/Airport/localizer.xml -2.905403 53.740578 7.61 341.11
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -2.998753 53.735919 0.16 0
 OBJECT_STATIC WartonFlightSheds.xml -2.89436631 53.74679582 11.23 108

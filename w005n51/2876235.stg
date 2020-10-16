@@ -12,3 +12,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -4.0310952 51.1959563 67.97
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac -4.2008333 51.1991666 4.23 180
 OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -4.17632 51.2017 -0.04 355
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -4.04697 51.20943 -0.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -4.112953 51.210419 0 0

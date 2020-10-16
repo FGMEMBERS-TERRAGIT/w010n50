@@ -16,3 +16,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.4961377 52.8771165 49.61 206.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.4935347 52.8783651 48.39 344.08
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.4931794 52.8780001 48.25 206.33
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -1.2593006 52.8793803 27.23 285.65
+OBJECT_STATIC ShowcaseForestersPkDerby.ac -1.476256 52.897062 64.4 127

@@ -6,3 +6,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -2.2184656 51.6890905 59.66
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.1854285 51.7475965 164.24 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.1735637 51.675677 102.49 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.1693655 51.7134505 122.76 180
+OBJECT_STATIC HillPaulStroud.ac -2.219224 51.743935 51.46 248

@@ -8,3 +8,5 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.546333 51.218686 294.86 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.51918 51.174955 211.97 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.6252778 51.2369444 102.99 180
 OBJECT_SHARED Models/Communications/radio-tall.xml -2.626023 51.2361929 -7.54 180
+OBJECT_STATIC WellsCathedral.ac -2.643535 51.210431 51.64 273
+OBJECT_STATIC Glastonbury_Tor_Tower.ac -2.698675 51.144679 135.75 0

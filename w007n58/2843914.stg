@@ -9,4 +9,5 @@ OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -6.3839222 58.200137 -0.02 302.
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -6.3684729 58.1991566 -0.01 348.32
 OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -6.38955 58.21014 0 185
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -6.3674807 58.1926102 -0.01 181.06
+OBJECT_SHARED Models/Military/gaydon_hangar.ac -6.32604012 58.2191415 2.78 40
 OBJECT_STATIC Arnish_Point_Lighthouse.xml -6.3698403 58.18930425 0 256

@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -0.402958 54.2670091 97.33 
 OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -0.39036 54.28306 0 180
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -0.39078 54.28045 -0.01 0
 OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac -0.39871 54.27943 24.66 0
+OBJECT_SHARED Models/Maritime/Civilian/Shannon_Lifeboat.ac -0.389929 54.283066 0 0

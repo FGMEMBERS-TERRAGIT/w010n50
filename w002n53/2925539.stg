@@ -12,3 +12,5 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -1.13738 53.515224 -434
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -1.137139 53.518599 -442.72 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -1.132343 53.518915 -439.23 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -1.107811 53.531109 -439.8 180
+OBJECT_STATIC BrodsworthHall.ac -1.237642 53.557601 78.46 112
+OBJECT_STATIC JamiaMosqueDoncaster.ac -1.131106 53.516212 18.94 240

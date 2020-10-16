@@ -7,6 +7,8 @@ OBJECT_SHARED Models/Airport/marker.ac -6.085358 54.692647 107.39 180
 OBJECT_SHARED Models/Airport/GenericFuelStore5.ac -6.204685 54.663366 74.96 0
 OBJECT_SHARED Models/Airport/localizer.xml -6.240967 54.650714 57.11 335.01
 OBJECT_SHARED Models/Airport/localizer.xml -6.219181 54.641119 80.82 252
+OBJECT_SHARED Models/Military/RAF25mBarrackRange.ac -6.231399 54.645284 68.28 271
+OBJECT_SHARED Models/Military/RAFETypeShed.ac -6.226265 54.644862 72.7 304
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.224119 54.659874 63.56 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.223843 54.659296 64.1 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.223618 54.65899 64.49 0

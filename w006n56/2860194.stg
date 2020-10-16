@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -5.343694 56.514872 63.84 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -5.314868 56.608832 448.92 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -5.4197833 56.5369 -0.03 176.86
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -5.4016333 56.5366333 4.14 32.96
+OBJECT_STATIC castlestalker.ac -5.386209 56.571466 0.78 30

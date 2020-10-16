@@ -2,6 +2,7 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -0.707825 52.120662 90.47 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -0.668203 52.001221 174.43 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -0.594269 52.099448 97.98 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -0.542598 52.032274 136.2 180
+OBJECT_SHARED Models/Power/windturbine.xml -0.529436 52.063896 40.73 0
 OBJECT_SHARED Models/Airport/ils.xml -0.611092 52.075592 109.07 148.56
 OBJECT_SHARED Models/Communications/radio-medium.xml -0.5586111 52.0147222 103.84 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -0.610792 52.074217 109.26 180
@@ -17,8 +18,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5479354 52.0693457 39.38 296.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5458986 52.0663181 40.7 297.01
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5419051 52.0623187 39.07 301.34
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5334621 52.053724 48.67 300.94
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.524268 52.0674031 35.72 144.84
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5198051 52.0654704 41.23 144.84
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -0.5189909 52.038762 82.29 300.75
 OBJECT_SHARED Models/Airport/MultiFlightLeeds.ac -0.626824 52.0710473 107.72 80
 OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -0.6241492 52.0724131 107.06 168
