@@ -6,3 +6,8 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -1.103552 52.761915 100.31 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.070822 52.827793 88.37 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.050835 52.783243 137.21 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -1.010892 52.819883 121.65 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -1.03117 52.83933 0.00 118.99
+# END dsf2stg

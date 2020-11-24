@@ -2,3 +2,11 @@ OBJECT_STATIC South_Lundy_Fog_Horn.ac -4.65474121 51.16152996 0 188
 OBJECT_STATIC South_Lundy_Helipad.ac -4.65488356 51.16194153 1.45 0
 OBJECT_STATIC South_Lundy_Lighthouse.xml -4.65500442 51.16164598 2.53 192
 OBJECT_STATIC North_Lundy_Lighthouse.xml -4.67664775 51.20167776 28.42 28
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -4.67279 51.16714 0.00 96.73
+OBJECT_SHARED Models/lib/shed8x10.ac -4.67180 51.16700 139.85 17.24
+OBJECT_SHARED Models/lib/prop_a.ac -4.66792 51.17061 137.82 103.28
+OBJECT_SHARED Models/lib/prop_a.ac -4.66958 51.17038 135.33 103.24
+# END dsf2stg

@@ -8,3 +8,12 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.046476 53.319583 406.39 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.009504 53.260671 551.21 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.0885318 53.2968496 114.49 180
 OBJECT_STATIC vulcanxm603.ac -2.151904 53.335396 87.18 325
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -2.14081 53.34064 0.00 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.14084 53.34071 89.21 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.14077 53.34059 89.18 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.14073 53.34050 89.21 90
+OBJECT_SHARED Models/lib/coal_pile.ac -2.14068 53.34045 89.25 90
+# END dsf2stg

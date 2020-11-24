@@ -7,3 +7,11 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -2.592149 51.327734 168.37 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.518236 51.339388 196.79 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -2.509179 51.300645 148.58 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -2.6632056 51.3313136 77.02 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -2.52221 51.34130 0.00 0
+OBJECT_SHARED Models/lib/prop_a.ac -2.52212 51.34115 181.83 6.70997
+OBJECT_SHARED Models/lib/SmHangar.ac -2.52197 51.34099 182.18 197.979
+OBJECT_SHARED Models/Misc/6barrels.ac -2.52217 51.34106 182.33 0
+# END dsf2stg

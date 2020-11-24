@@ -10,3 +10,11 @@ OBJECT_SHARED Models/Power/windturbine.xml -5.5605556 55.635 288.71 180
 OBJECT_SHARED Models/Power/windturbine.xml -5.5597222 55.6288888 278.21 180
 OBJECT_SHARED Models/Power/windturbine.xml -5.5591666 55.6341666 284.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -5.6 55.7166667 109.09 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_red.ac -5.74899 55.65403 11.73 321.71
+OBJECT_SHARED Models/Transport/hatchback_black.ac -5.74894 55.65401 1.20 321.71
+OBJECT_SHARED Models/Transport/van_red.ac -5.74878 55.65544 10.08 201.318
+OBJECT_SHARED Models/lib/shed8x10.ac -5.74963 55.65452 14.35 122.54
+# END dsf2stg

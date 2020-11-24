@@ -4,3 +4,9 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -3.871036 55.396425 476.51 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.823193 55.436287 429.83 180
 OBJECT_SHARED Models/Misc/trigpoint.ac -3.800933 55.490332 422.19 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -3.9826384 55.4128095 446.8 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -3.84563 55.46720 0.00 290.45
+OBJECT_SHARED Models/lib/industrial13x24.ac -3.84558 55.46713 283.42 201.69
+# END dsf2stg

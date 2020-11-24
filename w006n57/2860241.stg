@@ -12,10 +12,10 @@ OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.7425252 57.2776907 0 0
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -5.67230 57.33460 25.22 255.933
-OBJECT_SHARED Models/lib/cars6.ac -5.67261 57.33455 24.94 75.9079
-OBJECT_SHARED Models/lib/schranke.ac -5.67236 57.33498 25.57 76.3925
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -5.67217 57.33491 25.58 77.358
+OBJECT_SHARED Models/lib/SmHangar.ac -5.67230 57.33460 0.00 255.933
+OBJECT_SHARED Models/lib/cars6.ac -5.67261 57.33455 25.22 75.9079
+OBJECT_SHARED Models/lib/schranke.ac -5.67236 57.33498 24.94 76.3925
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -5.67217 57.33491 25.57 77.358
 # END dsf2stg
 OBJECT_SHARED Models/Maritime/Civilian/Atlantic_85.ac -5.709779 57.280435 7.26 175
 OBJECT_STATIC skye_bridge.ac -5.74110808 57.2786546 0 246.8

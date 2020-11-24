@@ -8,3 +8,19 @@ OBJECT_SHARED Models/Airport/ils.xml -2.670003 52.799378 74.42 176.48
 OBJECT_SHARED Models/Communications/vordme_1.xml -2.662542 52.798003 70.99 180
 OBJECT_SHARED Models/Airport/marker.ac -2.667503 52.810489 80.86 180
 OBJECT_SHARED Models/Airport/localizer.xml -2.669961 52.786658 73.43 274.5
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.50061 52.80766 64.44 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -2.50124 52.80789 66.75 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.50034 52.80755 65.56 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.50096 52.80779 66.58 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -2.50163 52.80803 66.94 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.50017 52.80749 66.38 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.50049 52.80759 66.43 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.50075 52.80771 66.62 90
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.50106 52.80783 66.79 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -2.50141 52.80796 66.97 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.50196 52.80817 67.26 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -2.50005 52.81001 67.60 0
+# END dsf2stg

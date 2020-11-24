@@ -8,3 +8,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -1.5830961 51.8710942 77.26
 OBJECT_SHARED Models/Airport/marker.ac -1.549403 51.756136 75.81 180
 OBJECT_SHARED Models/Airport/localizer.xml -1.555411 51.755039 74.9 166
 OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml -1.565336 51.752072 76.38 104
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -1.69680 51.86957 0.00 215.08
+# END dsf2stg

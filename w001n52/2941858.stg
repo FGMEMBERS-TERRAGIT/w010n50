@@ -3,3 +3,9 @@ OBJECT_SHARED Models/Misc/trigpoint.ac -0.332591 52.528024 55.03 180
 OBJECT_SHARED Models/Airport/tacan.xml -0.498667 52.607833 86.94 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -0.3430556 52.5080556 -276.74 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -0.3408333 52.5080556 10.98 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac -0.47564 52.61058 0.00 32.74
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -0.47655 52.61067 77.14 286.2
+# END dsf2stg
